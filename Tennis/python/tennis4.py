@@ -141,9 +141,11 @@ class Player2Advantage(ScoreRule):
 
 
 class EqualScoresNotDeuce(ScoreRule):
+    @override
     def score(self):
         return TennisResult(SCORE_NAMES[self.player1_score] + "-All")
 
+    @override
     def is_satisfied(self):
         return (
               self.player1_score == self.player2_score
