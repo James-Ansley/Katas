@@ -1,17 +1,14 @@
 from collections.abc import Sequence
-from typing import TypeVar
-
-T = TypeVar("T")
 
 
 # Let us, for a moment, pretend the bisect module does not exist
 #
-# def chop(target: T, values: Sequence[T]) -> int:
+# def chop[T](target: T, values: Sequence[T]) -> int:
 #     idx = bisect_left(values, target)
 #     return idx if idx < len(values) and values[idx] == target else -1
 
 
-def chop(target: T, values: Sequence[T]) -> int:
+def chop[T](target: T, values: Sequence[T]) -> int:
     lo, hi = 0, len(values) - 1
     while lo <= hi:
         mid = (lo + hi) // 2
@@ -23,14 +20,13 @@ def chop(target: T, values: Sequence[T]) -> int:
             lo = mid + 1
     return -1
 
-
 # A recursive solution
 #
-# def chop(target: T, values: Sequence[T]) -> int:
+# def chop[T](target: T, values: Sequence[T]) -> int:
 #     return chop_recursive_helper(target, values, 0, len(values) - 1)
 #
 #
-# def chop_recursive_helper(
+# def chop_recursive_helper[T](
 #       target: T, values: Sequence[T], lo: int, hi: int
 # ) -> int:
 #     mid = (lo + hi) // 2
