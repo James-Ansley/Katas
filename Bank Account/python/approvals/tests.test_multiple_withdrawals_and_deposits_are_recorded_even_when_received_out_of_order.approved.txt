@@ -1,0 +1,19 @@
+Feature: Multiple withdrawals and deposits are recorded even when received out of order
+
+Starting with an empty bank account
+
+Withdrawing 500 units on 2012-01-14,
+Depositing 1000 units on 2012-01-10,
+Depositing 2000 units on 2012-01-13,
+Depositing 3000 units on 2011-01-01,
+Withdrawing 500 units on 2011-01-02,
+
+
+Will record the transactions and display in reverse order
+
+Date       || Amount   || Balance
+2012-01-14 || -500     || 5000
+2012-01-13 || 2000     || 5500
+2012-01-10 || 1000     || 3500
+2011-01-02 || -500     || 2500
+2011-01-01 || 3000     || 3000

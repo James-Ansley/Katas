@@ -1,0 +1,11 @@
+Feature: Multiple deposits are recorded
+
+Starting with an empty bank account
+
+Depositing 100 units on 2012-01-14 and 200 units on 2012-01-15
+
+Will record the transactions and display in reverse order
+
+Date       || Amount   || Balance
+2012-01-15 || 200      || 300
+2012-01-14 || 100      || 100

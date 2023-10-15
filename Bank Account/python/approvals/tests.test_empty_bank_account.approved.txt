@@ -1,0 +1,7 @@
+Feature: An empty bank account displays an empty table
+
+Starting with an empty bank account
+
+An empty statement will be produced
+
+Date       || Amount   || Balance
