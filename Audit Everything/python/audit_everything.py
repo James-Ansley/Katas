@@ -28,6 +28,9 @@ class FileSystem(abc.ABC):
             ))
         )
 
+    def num_lines_in_file(self, file) -> int:
+        return len(self.read_all_lines(file))
+
 
 class Visit:
     time_fmt = '%Y-%m-%d %H:%M:%S'
@@ -75,9 +78,12 @@ class AuditManager:
 
     def _next_available_file(self) -> PurePath:
         file_paths = self._audit_files()
-        if file_paths:
-            file = file_paths[-1]
-            content = self._file_system.read_all_lines(file)
-            if len(content) < self._max_entries_per_file:
-                return file
-        return self._new_audit_file()
+        has_capacity = (
+              file_paths
+              and (self._file_system.num_lines_in_file(file_paths[-1])
+                   < self._max_entries_per_file)
+        )
+        if has_capacity:
+            return file_paths[-1]
+        else:
+            return self._new_audit_file()
