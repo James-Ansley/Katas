@@ -1,0 +1,3 @@
+pytest~=8.1.2
+pytest-approvaltests~=0.2.4
+approvaltests~=11.2.1

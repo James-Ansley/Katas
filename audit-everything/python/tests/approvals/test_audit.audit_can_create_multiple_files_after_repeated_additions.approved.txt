@@ -1,0 +1,4 @@
+{'audits/audit_1.txt': 'Jane;2019-04-06 16:40:00\nJack;2019-04-06 17:00:00',
+ 'audits/audit_2.txt': 'Peter;2019-04-06 16:30:00\nAlex;2019-04-06 18:00:00',
+ 'audits/audit_3.txt': 'Bryn;2019-04-06 18:01:00\nChris;2019-04-06 18:02:00',
+ 'audits/audit_4.txt': 'Dana;2019-04-06 18:03:00'}
