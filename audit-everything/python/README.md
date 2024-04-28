@@ -23,7 +23,7 @@ This meant the `Audit` manager class could just focus on managing audits.
 
 In this refactoring exercise, I also decided to fix the previously mentioned
 bug. If this were a real legacy system, I probably wouldn't do this—but since
-this is an exercise, I took the liber to change the functionality. Other than
+this is an exercise, I took the liberty to change the functionality. Other than
 this, all public interfaces and functionality have stayed the same.
 
 ### Pain Points
