@@ -18,12 +18,15 @@ class AuditManager:
           file_system: FileSystem,
     ):
         self._max_entries_per_file: Final[int] = max_entries_per_file
-        self._files = FileWrapper(file_system, directory_name)
+        self._files: Final[FileWrapper] = FileWrapper(
+            file_system,
+            directory_name,
+        )
 
     def add_record(self, visitor_name: str, time_of_visit: datetime) -> None:
         record = self.record_fmt.format(visitor_name, time_of_visit)
         audit_path = self._next_available_path()
-        self._files.append_to(audit_path, record)
+        self._files.append(audit_path, record)
 
     def _next_available_path(self) -> str:
         result = self._last_audit_path()
@@ -36,16 +39,16 @@ class AuditManager:
             return self._format_audit_path(next_audit_number)
 
     def _last_audit_path(self) -> str | None:
-        files = self._files.list_matching(self.audit_regex)
+        files = self._files.list_paths(self.audit_regex)
         if files:
             return max(files, key=self._audit_number_from_path)
         else:
             return None
 
-    def _can_append_to(self, audit_path) -> bool:
-        return self._files.file_length(audit_path) < self._max_entries_per_file
+    def _can_append_to(self, audit_path: str) -> bool:
+        return self._files.num_lines(audit_path) < self._max_entries_per_file
 
-    def _format_audit_path(self, number):
+    def _format_audit_path(self, number: int) -> str:
         return self.audit_format.format(number)
 
     @classmethod

@@ -8,27 +8,27 @@ class FileWrapper:
         self.file_system = file_system
         self.root = root
 
-    def list_matching(self, pattern: re.Pattern) -> list[str]:
+    def list_paths(self, pattern: re.Pattern) -> list[str]:
         return [
             str(PurePath(path).relative_to(self.root))
             for path in self.file_system.get_files(self.root)
             if pattern.match(path)
         ]
 
-    def file_length(self, path: str) -> int:
-        return len(self.file_lines(path))
+    def num_lines(self, path: str) -> int:
+        return len(self.lines(path))
 
-    def file_lines(self, path: str) -> list[str]:
+    def lines(self, path: str) -> list[str]:
         path = self.join_relative_to_root(path)
         if path in self.file_system.get_files(self.root):
             return self.file_system.read_all_lines(path)
         else:
             return []
 
-    def append_to(self, path: str, line: str) -> None:
+    def append(self, path: str, line: str) -> None:
         self.file_system.write_all_text(
             self.join_relative_to_root(path),
-            "\n".join((*self.file_lines(path), line)),
+            "\n".join((*self.lines(path), line)),
         )
 
     def join_relative_to_root(self, filename: str) -> str:
