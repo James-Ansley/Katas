@@ -1,0 +1,14 @@
+[build-system]
+requires = ["setuptools>=65.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "bank-account"
+version = "1.0.0"
+
+readme = "README.md"
+requires-python = ">=3.12"
+
+[tool.pytest.ini_options]
+python_classes = "~"
+python_functions = "~"

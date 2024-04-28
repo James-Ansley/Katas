@@ -1,0 +1,2 @@
+Date       || Amount || Balance
+2012-01-10 || 123    || 123    
