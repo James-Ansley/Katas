@@ -1,0 +1,980 @@
+                 Sulfuras, Hand of Ragnaros, 1, 80 after  0 days becomes: Sulfuras, Hand of Ragnaros, 1, 80
+                 Sulfuras, Hand of Ragnaros, 1, 80 after  1 days becomes: Sulfuras, Hand of Ragnaros, 1, 80
+                 Sulfuras, Hand of Ragnaros, 1, 80 after  2 days becomes: Sulfuras, Hand of Ragnaros, 1, 80
+                 Sulfuras, Hand of Ragnaros, 1, 80 after  3 days becomes: Sulfuras, Hand of Ragnaros, 1, 80
+                 Sulfuras, Hand of Ragnaros, 1, 80 after  4 days becomes: Sulfuras, Hand of Ragnaros, 1, 80
+                 Sulfuras, Hand of Ragnaros, 1, 80 after  5 days becomes: Sulfuras, Hand of Ragnaros, 1, 80
+                 Sulfuras, Hand of Ragnaros, 1, 80 after  6 days becomes: Sulfuras, Hand of Ragnaros, 1, 80
+                 Sulfuras, Hand of Ragnaros, 1, 80 after  7 days becomes: Sulfuras, Hand of Ragnaros, 1, 80
+                 Sulfuras, Hand of Ragnaros, 1, 80 after  8 days becomes: Sulfuras, Hand of Ragnaros, 1, 80
+                 Sulfuras, Hand of Ragnaros, 1, 80 after  9 days becomes: Sulfuras, Hand of Ragnaros, 1, 80
+                Sulfuras, Hand of Ragnaros, -1, 80 after  0 days becomes: Sulfuras, Hand of Ragnaros, -1, 80
+                Sulfuras, Hand of Ragnaros, -1, 80 after  1 days becomes: Sulfuras, Hand of Ragnaros, -1, 80
+                Sulfuras, Hand of Ragnaros, -1, 80 after  2 days becomes: Sulfuras, Hand of Ragnaros, -1, 80
+                Sulfuras, Hand of Ragnaros, -1, 80 after  3 days becomes: Sulfuras, Hand of Ragnaros, -1, 80
+                Sulfuras, Hand of Ragnaros, -1, 80 after  4 days becomes: Sulfuras, Hand of Ragnaros, -1, 80
+                Sulfuras, Hand of Ragnaros, -1, 80 after  5 days becomes: Sulfuras, Hand of Ragnaros, -1, 80
+                Sulfuras, Hand of Ragnaros, -1, 80 after  6 days becomes: Sulfuras, Hand of Ragnaros, -1, 80
+                Sulfuras, Hand of Ragnaros, -1, 80 after  7 days becomes: Sulfuras, Hand of Ragnaros, -1, 80
+                Sulfuras, Hand of Ragnaros, -1, 80 after  8 days becomes: Sulfuras, Hand of Ragnaros, -1, 80
+                Sulfuras, Hand of Ragnaros, -1, 80 after  9 days becomes: Sulfuras, Hand of Ragnaros, -1, 80
+                                  Aged Brie, -1, 0 after  0 days becomes: Aged Brie, -1, 0
+                                  Aged Brie, -1, 0 after  1 days becomes: Aged Brie, -2, 2
+                                  Aged Brie, -1, 0 after  2 days becomes: Aged Brie, -3, 4
+                                  Aged Brie, -1, 0 after  3 days becomes: Aged Brie, -4, 6
+                                  Aged Brie, -1, 0 after  4 days becomes: Aged Brie, -5, 8
+                                  Aged Brie, -1, 0 after  5 days becomes: Aged Brie, -6, 10
+                                  Aged Brie, -1, 0 after  6 days becomes: Aged Brie, -7, 12
+                                  Aged Brie, -1, 0 after  7 days becomes: Aged Brie, -8, 14
+                                  Aged Brie, -1, 0 after  8 days becomes: Aged Brie, -9, 16
+                                  Aged Brie, -1, 0 after  9 days becomes: Aged Brie, -10, 18
+                                  Aged Brie, -1, 1 after  0 days becomes: Aged Brie, -1, 1
+                                  Aged Brie, -1, 1 after  1 days becomes: Aged Brie, -2, 3
+                                  Aged Brie, -1, 1 after  2 days becomes: Aged Brie, -3, 5
+                                  Aged Brie, -1, 1 after  3 days becomes: Aged Brie, -4, 7
+                                  Aged Brie, -1, 1 after  4 days becomes: Aged Brie, -5, 9
+                                  Aged Brie, -1, 1 after  5 days becomes: Aged Brie, -6, 11
+                                  Aged Brie, -1, 1 after  6 days becomes: Aged Brie, -7, 13
+                                  Aged Brie, -1, 1 after  7 days becomes: Aged Brie, -8, 15
+                                  Aged Brie, -1, 1 after  8 days becomes: Aged Brie, -9, 17
+                                  Aged Brie, -1, 1 after  9 days becomes: Aged Brie, -10, 19
+                                  Aged Brie, -1, 2 after  0 days becomes: Aged Brie, -1, 2
+                                  Aged Brie, -1, 2 after  1 days becomes: Aged Brie, -2, 4
+                                  Aged Brie, -1, 2 after  2 days becomes: Aged Brie, -3, 6
+                                  Aged Brie, -1, 2 after  3 days becomes: Aged Brie, -4, 8
+                                  Aged Brie, -1, 2 after  4 days becomes: Aged Brie, -5, 10
+                                  Aged Brie, -1, 2 after  5 days becomes: Aged Brie, -6, 12
+                                  Aged Brie, -1, 2 after  6 days becomes: Aged Brie, -7, 14
+                                  Aged Brie, -1, 2 after  7 days becomes: Aged Brie, -8, 16
+                                  Aged Brie, -1, 2 after  8 days becomes: Aged Brie, -9, 18
+                                  Aged Brie, -1, 2 after  9 days becomes: Aged Brie, -10, 20
+                                 Aged Brie, -1, 50 after  0 days becomes: Aged Brie, -1, 50
+                                 Aged Brie, -1, 50 after  1 days becomes: Aged Brie, -2, 50
+                                 Aged Brie, -1, 50 after  2 days becomes: Aged Brie, -3, 50
+                                 Aged Brie, -1, 50 after  3 days becomes: Aged Brie, -4, 50
+                                 Aged Brie, -1, 50 after  4 days becomes: Aged Brie, -5, 50
+                                 Aged Brie, -1, 50 after  5 days becomes: Aged Brie, -6, 50
+                                 Aged Brie, -1, 50 after  6 days becomes: Aged Brie, -7, 50
+                                 Aged Brie, -1, 50 after  7 days becomes: Aged Brie, -8, 50
+                                 Aged Brie, -1, 50 after  8 days becomes: Aged Brie, -9, 50
+                                 Aged Brie, -1, 50 after  9 days becomes: Aged Brie, -10, 50
+                                   Aged Brie, 0, 0 after  0 days becomes: Aged Brie, 0, 0
+                                   Aged Brie, 0, 0 after  1 days becomes: Aged Brie, -1, 2
+                                   Aged Brie, 0, 0 after  2 days becomes: Aged Brie, -2, 4
+                                   Aged Brie, 0, 0 after  3 days becomes: Aged Brie, -3, 6
+                                   Aged Brie, 0, 0 after  4 days becomes: Aged Brie, -4, 8
+                                   Aged Brie, 0, 0 after  5 days becomes: Aged Brie, -5, 10
+                                   Aged Brie, 0, 0 after  6 days becomes: Aged Brie, -6, 12
+                                   Aged Brie, 0, 0 after  7 days becomes: Aged Brie, -7, 14
+                                   Aged Brie, 0, 0 after  8 days becomes: Aged Brie, -8, 16
+                                   Aged Brie, 0, 0 after  9 days becomes: Aged Brie, -9, 18
+                                   Aged Brie, 0, 1 after  0 days becomes: Aged Brie, 0, 1
+                                   Aged Brie, 0, 1 after  1 days becomes: Aged Brie, -1, 3
+                                   Aged Brie, 0, 1 after  2 days becomes: Aged Brie, -2, 5
+                                   Aged Brie, 0, 1 after  3 days becomes: Aged Brie, -3, 7
+                                   Aged Brie, 0, 1 after  4 days becomes: Aged Brie, -4, 9
+                                   Aged Brie, 0, 1 after  5 days becomes: Aged Brie, -5, 11
+                                   Aged Brie, 0, 1 after  6 days becomes: Aged Brie, -6, 13
+                                   Aged Brie, 0, 1 after  7 days becomes: Aged Brie, -7, 15
+                                   Aged Brie, 0, 1 after  8 days becomes: Aged Brie, -8, 17
+                                   Aged Brie, 0, 1 after  9 days becomes: Aged Brie, -9, 19
+                                   Aged Brie, 0, 2 after  0 days becomes: Aged Brie, 0, 2
+                                   Aged Brie, 0, 2 after  1 days becomes: Aged Brie, -1, 4
+                                   Aged Brie, 0, 2 after  2 days becomes: Aged Brie, -2, 6
+                                   Aged Brie, 0, 2 after  3 days becomes: Aged Brie, -3, 8
+                                   Aged Brie, 0, 2 after  4 days becomes: Aged Brie, -4, 10
+                                   Aged Brie, 0, 2 after  5 days becomes: Aged Brie, -5, 12
+                                   Aged Brie, 0, 2 after  6 days becomes: Aged Brie, -6, 14
+                                   Aged Brie, 0, 2 after  7 days becomes: Aged Brie, -7, 16
+                                   Aged Brie, 0, 2 after  8 days becomes: Aged Brie, -8, 18
+                                   Aged Brie, 0, 2 after  9 days becomes: Aged Brie, -9, 20
+                                  Aged Brie, 0, 50 after  0 days becomes: Aged Brie, 0, 50
+                                  Aged Brie, 0, 50 after  1 days becomes: Aged Brie, -1, 50
+                                  Aged Brie, 0, 50 after  2 days becomes: Aged Brie, -2, 50
+                                  Aged Brie, 0, 50 after  3 days becomes: Aged Brie, -3, 50
+                                  Aged Brie, 0, 50 after  4 days becomes: Aged Brie, -4, 50
+                                  Aged Brie, 0, 50 after  5 days becomes: Aged Brie, -5, 50
+                                  Aged Brie, 0, 50 after  6 days becomes: Aged Brie, -6, 50
+                                  Aged Brie, 0, 50 after  7 days becomes: Aged Brie, -7, 50
+                                  Aged Brie, 0, 50 after  8 days becomes: Aged Brie, -8, 50
+                                  Aged Brie, 0, 50 after  9 days becomes: Aged Brie, -9, 50
+                                   Aged Brie, 1, 0 after  0 days becomes: Aged Brie, 1, 0
+                                   Aged Brie, 1, 0 after  1 days becomes: Aged Brie, 0, 1
+                                   Aged Brie, 1, 0 after  2 days becomes: Aged Brie, -1, 3
+                                   Aged Brie, 1, 0 after  3 days becomes: Aged Brie, -2, 5
+                                   Aged Brie, 1, 0 after  4 days becomes: Aged Brie, -3, 7
+                                   Aged Brie, 1, 0 after  5 days becomes: Aged Brie, -4, 9
+                                   Aged Brie, 1, 0 after  6 days becomes: Aged Brie, -5, 11
+                                   Aged Brie, 1, 0 after  7 days becomes: Aged Brie, -6, 13
+                                   Aged Brie, 1, 0 after  8 days becomes: Aged Brie, -7, 15
+                                   Aged Brie, 1, 0 after  9 days becomes: Aged Brie, -8, 17
+                                   Aged Brie, 1, 1 after  0 days becomes: Aged Brie, 1, 1
+                                   Aged Brie, 1, 1 after  1 days becomes: Aged Brie, 0, 2
+                                   Aged Brie, 1, 1 after  2 days becomes: Aged Brie, -1, 4
+                                   Aged Brie, 1, 1 after  3 days becomes: Aged Brie, -2, 6
+                                   Aged Brie, 1, 1 after  4 days becomes: Aged Brie, -3, 8
+                                   Aged Brie, 1, 1 after  5 days becomes: Aged Brie, -4, 10
+                                   Aged Brie, 1, 1 after  6 days becomes: Aged Brie, -5, 12
+                                   Aged Brie, 1, 1 after  7 days becomes: Aged Brie, -6, 14
+                                   Aged Brie, 1, 1 after  8 days becomes: Aged Brie, -7, 16
+                                   Aged Brie, 1, 1 after  9 days becomes: Aged Brie, -8, 18
+                                   Aged Brie, 1, 2 after  0 days becomes: Aged Brie, 1, 2
+                                   Aged Brie, 1, 2 after  1 days becomes: Aged Brie, 0, 3
+                                   Aged Brie, 1, 2 after  2 days becomes: Aged Brie, -1, 5
+                                   Aged Brie, 1, 2 after  3 days becomes: Aged Brie, -2, 7
+                                   Aged Brie, 1, 2 after  4 days becomes: Aged Brie, -3, 9
+                                   Aged Brie, 1, 2 after  5 days becomes: Aged Brie, -4, 11
+                                   Aged Brie, 1, 2 after  6 days becomes: Aged Brie, -5, 13
+                                   Aged Brie, 1, 2 after  7 days becomes: Aged Brie, -6, 15
+                                   Aged Brie, 1, 2 after  8 days becomes: Aged Brie, -7, 17
+                                   Aged Brie, 1, 2 after  9 days becomes: Aged Brie, -8, 19
+                                  Aged Brie, 1, 50 after  0 days becomes: Aged Brie, 1, 50
+                                  Aged Brie, 1, 50 after  1 days becomes: Aged Brie, 0, 50
+                                  Aged Brie, 1, 50 after  2 days becomes: Aged Brie, -1, 50
+                                  Aged Brie, 1, 50 after  3 days becomes: Aged Brie, -2, 50
+                                  Aged Brie, 1, 50 after  4 days becomes: Aged Brie, -3, 50
+                                  Aged Brie, 1, 50 after  5 days becomes: Aged Brie, -4, 50
+                                  Aged Brie, 1, 50 after  6 days becomes: Aged Brie, -5, 50
+                                  Aged Brie, 1, 50 after  7 days becomes: Aged Brie, -6, 50
+                                  Aged Brie, 1, 50 after  8 days becomes: Aged Brie, -7, 50
+                                  Aged Brie, 1, 50 after  9 days becomes: Aged Brie, -8, 50
+                         Conjured Aged Brie, -1, 0 after  0 days becomes: Conjured Aged Brie, -1, 0
+                         Conjured Aged Brie, -1, 0 after  1 days becomes: Conjured Aged Brie, -2, 4
+                         Conjured Aged Brie, -1, 0 after  2 days becomes: Conjured Aged Brie, -3, 8
+                         Conjured Aged Brie, -1, 0 after  3 days becomes: Conjured Aged Brie, -4, 12
+                         Conjured Aged Brie, -1, 0 after  4 days becomes: Conjured Aged Brie, -5, 16
+                         Conjured Aged Brie, -1, 0 after  5 days becomes: Conjured Aged Brie, -6, 20
+                         Conjured Aged Brie, -1, 0 after  6 days becomes: Conjured Aged Brie, -7, 24
+                         Conjured Aged Brie, -1, 0 after  7 days becomes: Conjured Aged Brie, -8, 28
+                         Conjured Aged Brie, -1, 0 after  8 days becomes: Conjured Aged Brie, -9, 32
+                         Conjured Aged Brie, -1, 0 after  9 days becomes: Conjured Aged Brie, -10, 36
+                         Conjured Aged Brie, -1, 1 after  0 days becomes: Conjured Aged Brie, -1, 1
+                         Conjured Aged Brie, -1, 1 after  1 days becomes: Conjured Aged Brie, -2, 5
+                         Conjured Aged Brie, -1, 1 after  2 days becomes: Conjured Aged Brie, -3, 9
+                         Conjured Aged Brie, -1, 1 after  3 days becomes: Conjured Aged Brie, -4, 13
+                         Conjured Aged Brie, -1, 1 after  4 days becomes: Conjured Aged Brie, -5, 17
+                         Conjured Aged Brie, -1, 1 after  5 days becomes: Conjured Aged Brie, -6, 21
+                         Conjured Aged Brie, -1, 1 after  6 days becomes: Conjured Aged Brie, -7, 25
+                         Conjured Aged Brie, -1, 1 after  7 days becomes: Conjured Aged Brie, -8, 29
+                         Conjured Aged Brie, -1, 1 after  8 days becomes: Conjured Aged Brie, -9, 33
+                         Conjured Aged Brie, -1, 1 after  9 days becomes: Conjured Aged Brie, -10, 37
+                         Conjured Aged Brie, -1, 2 after  0 days becomes: Conjured Aged Brie, -1, 2
+                         Conjured Aged Brie, -1, 2 after  1 days becomes: Conjured Aged Brie, -2, 6
+                         Conjured Aged Brie, -1, 2 after  2 days becomes: Conjured Aged Brie, -3, 10
+                         Conjured Aged Brie, -1, 2 after  3 days becomes: Conjured Aged Brie, -4, 14
+                         Conjured Aged Brie, -1, 2 after  4 days becomes: Conjured Aged Brie, -5, 18
+                         Conjured Aged Brie, -1, 2 after  5 days becomes: Conjured Aged Brie, -6, 22
+                         Conjured Aged Brie, -1, 2 after  6 days becomes: Conjured Aged Brie, -7, 26
+                         Conjured Aged Brie, -1, 2 after  7 days becomes: Conjured Aged Brie, -8, 30
+                         Conjured Aged Brie, -1, 2 after  8 days becomes: Conjured Aged Brie, -9, 34
+                         Conjured Aged Brie, -1, 2 after  9 days becomes: Conjured Aged Brie, -10, 38
+                        Conjured Aged Brie, -1, 50 after  0 days becomes: Conjured Aged Brie, -1, 50
+                        Conjured Aged Brie, -1, 50 after  1 days becomes: Conjured Aged Brie, -2, 50
+                        Conjured Aged Brie, -1, 50 after  2 days becomes: Conjured Aged Brie, -3, 50
+                        Conjured Aged Brie, -1, 50 after  3 days becomes: Conjured Aged Brie, -4, 50
+                        Conjured Aged Brie, -1, 50 after  4 days becomes: Conjured Aged Brie, -5, 50
+                        Conjured Aged Brie, -1, 50 after  5 days becomes: Conjured Aged Brie, -6, 50
+                        Conjured Aged Brie, -1, 50 after  6 days becomes: Conjured Aged Brie, -7, 50
+                        Conjured Aged Brie, -1, 50 after  7 days becomes: Conjured Aged Brie, -8, 50
+                        Conjured Aged Brie, -1, 50 after  8 days becomes: Conjured Aged Brie, -9, 50
+                        Conjured Aged Brie, -1, 50 after  9 days becomes: Conjured Aged Brie, -10, 50
+                          Conjured Aged Brie, 0, 0 after  0 days becomes: Conjured Aged Brie, 0, 0
+                          Conjured Aged Brie, 0, 0 after  1 days becomes: Conjured Aged Brie, -1, 4
+                          Conjured Aged Brie, 0, 0 after  2 days becomes: Conjured Aged Brie, -2, 8
+                          Conjured Aged Brie, 0, 0 after  3 days becomes: Conjured Aged Brie, -3, 12
+                          Conjured Aged Brie, 0, 0 after  4 days becomes: Conjured Aged Brie, -4, 16
+                          Conjured Aged Brie, 0, 0 after  5 days becomes: Conjured Aged Brie, -5, 20
+                          Conjured Aged Brie, 0, 0 after  6 days becomes: Conjured Aged Brie, -6, 24
+                          Conjured Aged Brie, 0, 0 after  7 days becomes: Conjured Aged Brie, -7, 28
+                          Conjured Aged Brie, 0, 0 after  8 days becomes: Conjured Aged Brie, -8, 32
+                          Conjured Aged Brie, 0, 0 after  9 days becomes: Conjured Aged Brie, -9, 36
+                          Conjured Aged Brie, 0, 1 after  0 days becomes: Conjured Aged Brie, 0, 1
+                          Conjured Aged Brie, 0, 1 after  1 days becomes: Conjured Aged Brie, -1, 5
+                          Conjured Aged Brie, 0, 1 after  2 days becomes: Conjured Aged Brie, -2, 9
+                          Conjured Aged Brie, 0, 1 after  3 days becomes: Conjured Aged Brie, -3, 13
+                          Conjured Aged Brie, 0, 1 after  4 days becomes: Conjured Aged Brie, -4, 17
+                          Conjured Aged Brie, 0, 1 after  5 days becomes: Conjured Aged Brie, -5, 21
+                          Conjured Aged Brie, 0, 1 after  6 days becomes: Conjured Aged Brie, -6, 25
+                          Conjured Aged Brie, 0, 1 after  7 days becomes: Conjured Aged Brie, -7, 29
+                          Conjured Aged Brie, 0, 1 after  8 days becomes: Conjured Aged Brie, -8, 33
+                          Conjured Aged Brie, 0, 1 after  9 days becomes: Conjured Aged Brie, -9, 37
+                          Conjured Aged Brie, 0, 2 after  0 days becomes: Conjured Aged Brie, 0, 2
+                          Conjured Aged Brie, 0, 2 after  1 days becomes: Conjured Aged Brie, -1, 6
+                          Conjured Aged Brie, 0, 2 after  2 days becomes: Conjured Aged Brie, -2, 10
+                          Conjured Aged Brie, 0, 2 after  3 days becomes: Conjured Aged Brie, -3, 14
+                          Conjured Aged Brie, 0, 2 after  4 days becomes: Conjured Aged Brie, -4, 18
+                          Conjured Aged Brie, 0, 2 after  5 days becomes: Conjured Aged Brie, -5, 22
+                          Conjured Aged Brie, 0, 2 after  6 days becomes: Conjured Aged Brie, -6, 26
+                          Conjured Aged Brie, 0, 2 after  7 days becomes: Conjured Aged Brie, -7, 30
+                          Conjured Aged Brie, 0, 2 after  8 days becomes: Conjured Aged Brie, -8, 34
+                          Conjured Aged Brie, 0, 2 after  9 days becomes: Conjured Aged Brie, -9, 38
+                         Conjured Aged Brie, 0, 50 after  0 days becomes: Conjured Aged Brie, 0, 50
+                         Conjured Aged Brie, 0, 50 after  1 days becomes: Conjured Aged Brie, -1, 50
+                         Conjured Aged Brie, 0, 50 after  2 days becomes: Conjured Aged Brie, -2, 50
+                         Conjured Aged Brie, 0, 50 after  3 days becomes: Conjured Aged Brie, -3, 50
+                         Conjured Aged Brie, 0, 50 after  4 days becomes: Conjured Aged Brie, -4, 50
+                         Conjured Aged Brie, 0, 50 after  5 days becomes: Conjured Aged Brie, -5, 50
+                         Conjured Aged Brie, 0, 50 after  6 days becomes: Conjured Aged Brie, -6, 50
+                         Conjured Aged Brie, 0, 50 after  7 days becomes: Conjured Aged Brie, -7, 50
+                         Conjured Aged Brie, 0, 50 after  8 days becomes: Conjured Aged Brie, -8, 50
+                         Conjured Aged Brie, 0, 50 after  9 days becomes: Conjured Aged Brie, -9, 50
+                          Conjured Aged Brie, 1, 0 after  0 days becomes: Conjured Aged Brie, 1, 0
+                          Conjured Aged Brie, 1, 0 after  1 days becomes: Conjured Aged Brie, 0, 2
+                          Conjured Aged Brie, 1, 0 after  2 days becomes: Conjured Aged Brie, -1, 6
+                          Conjured Aged Brie, 1, 0 after  3 days becomes: Conjured Aged Brie, -2, 10
+                          Conjured Aged Brie, 1, 0 after  4 days becomes: Conjured Aged Brie, -3, 14
+                          Conjured Aged Brie, 1, 0 after  5 days becomes: Conjured Aged Brie, -4, 18
+                          Conjured Aged Brie, 1, 0 after  6 days becomes: Conjured Aged Brie, -5, 22
+                          Conjured Aged Brie, 1, 0 after  7 days becomes: Conjured Aged Brie, -6, 26
+                          Conjured Aged Brie, 1, 0 after  8 days becomes: Conjured Aged Brie, -7, 30
+                          Conjured Aged Brie, 1, 0 after  9 days becomes: Conjured Aged Brie, -8, 34
+                          Conjured Aged Brie, 1, 1 after  0 days becomes: Conjured Aged Brie, 1, 1
+                          Conjured Aged Brie, 1, 1 after  1 days becomes: Conjured Aged Brie, 0, 3
+                          Conjured Aged Brie, 1, 1 after  2 days becomes: Conjured Aged Brie, -1, 7
+                          Conjured Aged Brie, 1, 1 after  3 days becomes: Conjured Aged Brie, -2, 11
+                          Conjured Aged Brie, 1, 1 after  4 days becomes: Conjured Aged Brie, -3, 15
+                          Conjured Aged Brie, 1, 1 after  5 days becomes: Conjured Aged Brie, -4, 19
+                          Conjured Aged Brie, 1, 1 after  6 days becomes: Conjured Aged Brie, -5, 23
+                          Conjured Aged Brie, 1, 1 after  7 days becomes: Conjured Aged Brie, -6, 27
+                          Conjured Aged Brie, 1, 1 after  8 days becomes: Conjured Aged Brie, -7, 31
+                          Conjured Aged Brie, 1, 1 after  9 days becomes: Conjured Aged Brie, -8, 35
+                          Conjured Aged Brie, 1, 2 after  0 days becomes: Conjured Aged Brie, 1, 2
+                          Conjured Aged Brie, 1, 2 after  1 days becomes: Conjured Aged Brie, 0, 4
+                          Conjured Aged Brie, 1, 2 after  2 days becomes: Conjured Aged Brie, -1, 8
+                          Conjured Aged Brie, 1, 2 after  3 days becomes: Conjured Aged Brie, -2, 12
+                          Conjured Aged Brie, 1, 2 after  4 days becomes: Conjured Aged Brie, -3, 16
+                          Conjured Aged Brie, 1, 2 after  5 days becomes: Conjured Aged Brie, -4, 20
+                          Conjured Aged Brie, 1, 2 after  6 days becomes: Conjured Aged Brie, -5, 24
+                          Conjured Aged Brie, 1, 2 after  7 days becomes: Conjured Aged Brie, -6, 28
+                          Conjured Aged Brie, 1, 2 after  8 days becomes: Conjured Aged Brie, -7, 32
+                          Conjured Aged Brie, 1, 2 after  9 days becomes: Conjured Aged Brie, -8, 36
+                         Conjured Aged Brie, 1, 50 after  0 days becomes: Conjured Aged Brie, 1, 50
+                         Conjured Aged Brie, 1, 50 after  1 days becomes: Conjured Aged Brie, 0, 50
+                         Conjured Aged Brie, 1, 50 after  2 days becomes: Conjured Aged Brie, -1, 50
+                         Conjured Aged Brie, 1, 50 after  3 days becomes: Conjured Aged Brie, -2, 50
+                         Conjured Aged Brie, 1, 50 after  4 days becomes: Conjured Aged Brie, -3, 50
+                         Conjured Aged Brie, 1, 50 after  5 days becomes: Conjured Aged Brie, -4, 50
+                         Conjured Aged Brie, 1, 50 after  6 days becomes: Conjured Aged Brie, -5, 50
+                         Conjured Aged Brie, 1, 50 after  7 days becomes: Conjured Aged Brie, -6, 50
+                         Conjured Aged Brie, 1, 50 after  8 days becomes: Conjured Aged Brie, -7, 50
+                         Conjured Aged Brie, 1, 50 after  9 days becomes: Conjured Aged Brie, -8, 50
+  Backstage passes to a TAFKAL80ETC concert, -1, 0 after  0 days becomes: Backstage passes to a TAFKAL80ETC concert, -1, 0
+  Backstage passes to a TAFKAL80ETC concert, -1, 0 after  1 days becomes: Backstage passes to a TAFKAL80ETC concert, -2, 0
+  Backstage passes to a TAFKAL80ETC concert, -1, 0 after  2 days becomes: Backstage passes to a TAFKAL80ETC concert, -3, 0
+  Backstage passes to a TAFKAL80ETC concert, -1, 0 after  3 days becomes: Backstage passes to a TAFKAL80ETC concert, -4, 0
+  Backstage passes to a TAFKAL80ETC concert, -1, 0 after  4 days becomes: Backstage passes to a TAFKAL80ETC concert, -5, 0
+  Backstage passes to a TAFKAL80ETC concert, -1, 0 after  5 days becomes: Backstage passes to a TAFKAL80ETC concert, -6, 0
+  Backstage passes to a TAFKAL80ETC concert, -1, 0 after  6 days becomes: Backstage passes to a TAFKAL80ETC concert, -7, 0
+  Backstage passes to a TAFKAL80ETC concert, -1, 0 after  7 days becomes: Backstage passes to a TAFKAL80ETC concert, -8, 0
+  Backstage passes to a TAFKAL80ETC concert, -1, 0 after  8 days becomes: Backstage passes to a TAFKAL80ETC concert, -9, 0
+  Backstage passes to a TAFKAL80ETC concert, -1, 0 after  9 days becomes: Backstage passes to a TAFKAL80ETC concert, -10, 0
+  Backstage passes to a TAFKAL80ETC concert, -1, 1 after  0 days becomes: Backstage passes to a TAFKAL80ETC concert, -1, 1
+  Backstage passes to a TAFKAL80ETC concert, -1, 1 after  1 days becomes: Backstage passes to a TAFKAL80ETC concert, -2, 0
+  Backstage passes to a TAFKAL80ETC concert, -1, 1 after  2 days becomes: Backstage passes to a TAFKAL80ETC concert, -3, 0
+  Backstage passes to a TAFKAL80ETC concert, -1, 1 after  3 days becomes: Backstage passes to a TAFKAL80ETC concert, -4, 0
+  Backstage passes to a TAFKAL80ETC concert, -1, 1 after  4 days becomes: Backstage passes to a TAFKAL80ETC concert, -5, 0
+  Backstage passes to a TAFKAL80ETC concert, -1, 1 after  5 days becomes: Backstage passes to a TAFKAL80ETC concert, -6, 0
+  Backstage passes to a TAFKAL80ETC concert, -1, 1 after  6 days becomes: Backstage passes to a TAFKAL80ETC concert, -7, 0
+  Backstage passes to a TAFKAL80ETC concert, -1, 1 after  7 days becomes: Backstage passes to a TAFKAL80ETC concert, -8, 0
+  Backstage passes to a TAFKAL80ETC concert, -1, 1 after  8 days becomes: Backstage passes to a TAFKAL80ETC concert, -9, 0
+  Backstage passes to a TAFKAL80ETC concert, -1, 1 after  9 days becomes: Backstage passes to a TAFKAL80ETC concert, -10, 0
+  Backstage passes to a TAFKAL80ETC concert, -1, 2 after  0 days becomes: Backstage passes to a TAFKAL80ETC concert, -1, 2
+  Backstage passes to a TAFKAL80ETC concert, -1, 2 after  1 days becomes: Backstage passes to a TAFKAL80ETC concert, -2, 0
+  Backstage passes to a TAFKAL80ETC concert, -1, 2 after  2 days becomes: Backstage passes to a TAFKAL80ETC concert, -3, 0
+  Backstage passes to a TAFKAL80ETC concert, -1, 2 after  3 days becomes: Backstage passes to a TAFKAL80ETC concert, -4, 0
+  Backstage passes to a TAFKAL80ETC concert, -1, 2 after  4 days becomes: Backstage passes to a TAFKAL80ETC concert, -5, 0
+  Backstage passes to a TAFKAL80ETC concert, -1, 2 after  5 days becomes: Backstage passes to a TAFKAL80ETC concert, -6, 0
+  Backstage passes to a TAFKAL80ETC concert, -1, 2 after  6 days becomes: Backstage passes to a TAFKAL80ETC concert, -7, 0
+  Backstage passes to a TAFKAL80ETC concert, -1, 2 after  7 days becomes: Backstage passes to a TAFKAL80ETC concert, -8, 0
+  Backstage passes to a TAFKAL80ETC concert, -1, 2 after  8 days becomes: Backstage passes to a TAFKAL80ETC concert, -9, 0
+  Backstage passes to a TAFKAL80ETC concert, -1, 2 after  9 days becomes: Backstage passes to a TAFKAL80ETC concert, -10, 0
+ Backstage passes to a TAFKAL80ETC concert, -1, 48 after  0 days becomes: Backstage passes to a TAFKAL80ETC concert, -1, 48
+ Backstage passes to a TAFKAL80ETC concert, -1, 48 after  1 days becomes: Backstage passes to a TAFKAL80ETC concert, -2, 0
+ Backstage passes to a TAFKAL80ETC concert, -1, 48 after  2 days becomes: Backstage passes to a TAFKAL80ETC concert, -3, 0
+ Backstage passes to a TAFKAL80ETC concert, -1, 48 after  3 days becomes: Backstage passes to a TAFKAL80ETC concert, -4, 0
+ Backstage passes to a TAFKAL80ETC concert, -1, 48 after  4 days becomes: Backstage passes to a TAFKAL80ETC concert, -5, 0
+ Backstage passes to a TAFKAL80ETC concert, -1, 48 after  5 days becomes: Backstage passes to a TAFKAL80ETC concert, -6, 0
+ Backstage passes to a TAFKAL80ETC concert, -1, 48 after  6 days becomes: Backstage passes to a TAFKAL80ETC concert, -7, 0
+ Backstage passes to a TAFKAL80ETC concert, -1, 48 after  7 days becomes: Backstage passes to a TAFKAL80ETC concert, -8, 0
+ Backstage passes to a TAFKAL80ETC concert, -1, 48 after  8 days becomes: Backstage passes to a TAFKAL80ETC concert, -9, 0
+ Backstage passes to a TAFKAL80ETC concert, -1, 48 after  9 days becomes: Backstage passes to a TAFKAL80ETC concert, -10, 0
+ Backstage passes to a TAFKAL80ETC concert, -1, 50 after  0 days becomes: Backstage passes to a TAFKAL80ETC concert, -1, 50
+ Backstage passes to a TAFKAL80ETC concert, -1, 50 after  1 days becomes: Backstage passes to a TAFKAL80ETC concert, -2, 0
+ Backstage passes to a TAFKAL80ETC concert, -1, 50 after  2 days becomes: Backstage passes to a TAFKAL80ETC concert, -3, 0
+ Backstage passes to a TAFKAL80ETC concert, -1, 50 after  3 days becomes: Backstage passes to a TAFKAL80ETC concert, -4, 0
+ Backstage passes to a TAFKAL80ETC concert, -1, 50 after  4 days becomes: Backstage passes to a TAFKAL80ETC concert, -5, 0
+ Backstage passes to a TAFKAL80ETC concert, -1, 50 after  5 days becomes: Backstage passes to a TAFKAL80ETC concert, -6, 0
+ Backstage passes to a TAFKAL80ETC concert, -1, 50 after  6 days becomes: Backstage passes to a TAFKAL80ETC concert, -7, 0
+ Backstage passes to a TAFKAL80ETC concert, -1, 50 after  7 days becomes: Backstage passes to a TAFKAL80ETC concert, -8, 0
+ Backstage passes to a TAFKAL80ETC concert, -1, 50 after  8 days becomes: Backstage passes to a TAFKAL80ETC concert, -9, 0
+ Backstage passes to a TAFKAL80ETC concert, -1, 50 after  9 days becomes: Backstage passes to a TAFKAL80ETC concert, -10, 0
+   Backstage passes to a TAFKAL80ETC concert, 0, 0 after  0 days becomes: Backstage passes to a TAFKAL80ETC concert, 0, 0
+   Backstage passes to a TAFKAL80ETC concert, 0, 0 after  1 days becomes: Backstage passes to a TAFKAL80ETC concert, -1, 0
+   Backstage passes to a TAFKAL80ETC concert, 0, 0 after  2 days becomes: Backstage passes to a TAFKAL80ETC concert, -2, 0
+   Backstage passes to a TAFKAL80ETC concert, 0, 0 after  3 days becomes: Backstage passes to a TAFKAL80ETC concert, -3, 0
+   Backstage passes to a TAFKAL80ETC concert, 0, 0 after  4 days becomes: Backstage passes to a TAFKAL80ETC concert, -4, 0
+   Backstage passes to a TAFKAL80ETC concert, 0, 0 after  5 days becomes: Backstage passes to a TAFKAL80ETC concert, -5, 0
+   Backstage passes to a TAFKAL80ETC concert, 0, 0 after  6 days becomes: Backstage passes to a TAFKAL80ETC concert, -6, 0
+   Backstage passes to a TAFKAL80ETC concert, 0, 0 after  7 days becomes: Backstage passes to a TAFKAL80ETC concert, -7, 0
+   Backstage passes to a TAFKAL80ETC concert, 0, 0 after  8 days becomes: Backstage passes to a TAFKAL80ETC concert, -8, 0
+   Backstage passes to a TAFKAL80ETC concert, 0, 0 after  9 days becomes: Backstage passes to a TAFKAL80ETC concert, -9, 0
+   Backstage passes to a TAFKAL80ETC concert, 0, 1 after  0 days becomes: Backstage passes to a TAFKAL80ETC concert, 0, 1
+   Backstage passes to a TAFKAL80ETC concert, 0, 1 after  1 days becomes: Backstage passes to a TAFKAL80ETC concert, -1, 0
+   Backstage passes to a TAFKAL80ETC concert, 0, 1 after  2 days becomes: Backstage passes to a TAFKAL80ETC concert, -2, 0
+   Backstage passes to a TAFKAL80ETC concert, 0, 1 after  3 days becomes: Backstage passes to a TAFKAL80ETC concert, -3, 0
+   Backstage passes to a TAFKAL80ETC concert, 0, 1 after  4 days becomes: Backstage passes to a TAFKAL80ETC concert, -4, 0
+   Backstage passes to a TAFKAL80ETC concert, 0, 1 after  5 days becomes: Backstage passes to a TAFKAL80ETC concert, -5, 0
+   Backstage passes to a TAFKAL80ETC concert, 0, 1 after  6 days becomes: Backstage passes to a TAFKAL80ETC concert, -6, 0
+   Backstage passes to a TAFKAL80ETC concert, 0, 1 after  7 days becomes: Backstage passes to a TAFKAL80ETC concert, -7, 0
+   Backstage passes to a TAFKAL80ETC concert, 0, 1 after  8 days becomes: Backstage passes to a TAFKAL80ETC concert, -8, 0
+   Backstage passes to a TAFKAL80ETC concert, 0, 1 after  9 days becomes: Backstage passes to a TAFKAL80ETC concert, -9, 0
+   Backstage passes to a TAFKAL80ETC concert, 0, 2 after  0 days becomes: Backstage passes to a TAFKAL80ETC concert, 0, 2
+   Backstage passes to a TAFKAL80ETC concert, 0, 2 after  1 days becomes: Backstage passes to a TAFKAL80ETC concert, -1, 0
+   Backstage passes to a TAFKAL80ETC concert, 0, 2 after  2 days becomes: Backstage passes to a TAFKAL80ETC concert, -2, 0
+   Backstage passes to a TAFKAL80ETC concert, 0, 2 after  3 days becomes: Backstage passes to a TAFKAL80ETC concert, -3, 0
+   Backstage passes to a TAFKAL80ETC concert, 0, 2 after  4 days becomes: Backstage passes to a TAFKAL80ETC concert, -4, 0
+   Backstage passes to a TAFKAL80ETC concert, 0, 2 after  5 days becomes: Backstage passes to a TAFKAL80ETC concert, -5, 0
+   Backstage passes to a TAFKAL80ETC concert, 0, 2 after  6 days becomes: Backstage passes to a TAFKAL80ETC concert, -6, 0
+   Backstage passes to a TAFKAL80ETC concert, 0, 2 after  7 days becomes: Backstage passes to a TAFKAL80ETC concert, -7, 0
+   Backstage passes to a TAFKAL80ETC concert, 0, 2 after  8 days becomes: Backstage passes to a TAFKAL80ETC concert, -8, 0
+   Backstage passes to a TAFKAL80ETC concert, 0, 2 after  9 days becomes: Backstage passes to a TAFKAL80ETC concert, -9, 0
+  Backstage passes to a TAFKAL80ETC concert, 0, 48 after  0 days becomes: Backstage passes to a TAFKAL80ETC concert, 0, 48
+  Backstage passes to a TAFKAL80ETC concert, 0, 48 after  1 days becomes: Backstage passes to a TAFKAL80ETC concert, -1, 0
+  Backstage passes to a TAFKAL80ETC concert, 0, 48 after  2 days becomes: Backstage passes to a TAFKAL80ETC concert, -2, 0
+  Backstage passes to a TAFKAL80ETC concert, 0, 48 after  3 days becomes: Backstage passes to a TAFKAL80ETC concert, -3, 0
+  Backstage passes to a TAFKAL80ETC concert, 0, 48 after  4 days becomes: Backstage passes to a TAFKAL80ETC concert, -4, 0
+  Backstage passes to a TAFKAL80ETC concert, 0, 48 after  5 days becomes: Backstage passes to a TAFKAL80ETC concert, -5, 0
+  Backstage passes to a TAFKAL80ETC concert, 0, 48 after  6 days becomes: Backstage passes to a TAFKAL80ETC concert, -6, 0
+  Backstage passes to a TAFKAL80ETC concert, 0, 48 after  7 days becomes: Backstage passes to a TAFKAL80ETC concert, -7, 0
+  Backstage passes to a TAFKAL80ETC concert, 0, 48 after  8 days becomes: Backstage passes to a TAFKAL80ETC concert, -8, 0
+  Backstage passes to a TAFKAL80ETC concert, 0, 48 after  9 days becomes: Backstage passes to a TAFKAL80ETC concert, -9, 0
+  Backstage passes to a TAFKAL80ETC concert, 0, 50 after  0 days becomes: Backstage passes to a TAFKAL80ETC concert, 0, 50
+  Backstage passes to a TAFKAL80ETC concert, 0, 50 after  1 days becomes: Backstage passes to a TAFKAL80ETC concert, -1, 0
+  Backstage passes to a TAFKAL80ETC concert, 0, 50 after  2 days becomes: Backstage passes to a TAFKAL80ETC concert, -2, 0
+  Backstage passes to a TAFKAL80ETC concert, 0, 50 after  3 days becomes: Backstage passes to a TAFKAL80ETC concert, -3, 0
+  Backstage passes to a TAFKAL80ETC concert, 0, 50 after  4 days becomes: Backstage passes to a TAFKAL80ETC concert, -4, 0
+  Backstage passes to a TAFKAL80ETC concert, 0, 50 after  5 days becomes: Backstage passes to a TAFKAL80ETC concert, -5, 0
+  Backstage passes to a TAFKAL80ETC concert, 0, 50 after  6 days becomes: Backstage passes to a TAFKAL80ETC concert, -6, 0
+  Backstage passes to a TAFKAL80ETC concert, 0, 50 after  7 days becomes: Backstage passes to a TAFKAL80ETC concert, -7, 0
+  Backstage passes to a TAFKAL80ETC concert, 0, 50 after  8 days becomes: Backstage passes to a TAFKAL80ETC concert, -8, 0
+  Backstage passes to a TAFKAL80ETC concert, 0, 50 after  9 days becomes: Backstage passes to a TAFKAL80ETC concert, -9, 0
+   Backstage passes to a TAFKAL80ETC concert, 1, 0 after  0 days becomes: Backstage passes to a TAFKAL80ETC concert, 1, 0
+   Backstage passes to a TAFKAL80ETC concert, 1, 0 after  1 days becomes: Backstage passes to a TAFKAL80ETC concert, 0, 3
+   Backstage passes to a TAFKAL80ETC concert, 1, 0 after  2 days becomes: Backstage passes to a TAFKAL80ETC concert, -1, 0
+   Backstage passes to a TAFKAL80ETC concert, 1, 0 after  3 days becomes: Backstage passes to a TAFKAL80ETC concert, -2, 0
+   Backstage passes to a TAFKAL80ETC concert, 1, 0 after  4 days becomes: Backstage passes to a TAFKAL80ETC concert, -3, 0
+   Backstage passes to a TAFKAL80ETC concert, 1, 0 after  5 days becomes: Backstage passes to a TAFKAL80ETC concert, -4, 0
+   Backstage passes to a TAFKAL80ETC concert, 1, 0 after  6 days becomes: Backstage passes to a TAFKAL80ETC concert, -5, 0
+   Backstage passes to a TAFKAL80ETC concert, 1, 0 after  7 days becomes: Backstage passes to a TAFKAL80ETC concert, -6, 0
+   Backstage passes to a TAFKAL80ETC concert, 1, 0 after  8 days becomes: Backstage passes to a TAFKAL80ETC concert, -7, 0
+   Backstage passes to a TAFKAL80ETC concert, 1, 0 after  9 days becomes: Backstage passes to a TAFKAL80ETC concert, -8, 0
+   Backstage passes to a TAFKAL80ETC concert, 1, 1 after  0 days becomes: Backstage passes to a TAFKAL80ETC concert, 1, 1
+   Backstage passes to a TAFKAL80ETC concert, 1, 1 after  1 days becomes: Backstage passes to a TAFKAL80ETC concert, 0, 4
+   Backstage passes to a TAFKAL80ETC concert, 1, 1 after  2 days becomes: Backstage passes to a TAFKAL80ETC concert, -1, 0
+   Backstage passes to a TAFKAL80ETC concert, 1, 1 after  3 days becomes: Backstage passes to a TAFKAL80ETC concert, -2, 0
+   Backstage passes to a TAFKAL80ETC concert, 1, 1 after  4 days becomes: Backstage passes to a TAFKAL80ETC concert, -3, 0
+   Backstage passes to a TAFKAL80ETC concert, 1, 1 after  5 days becomes: Backstage passes to a TAFKAL80ETC concert, -4, 0
+   Backstage passes to a TAFKAL80ETC concert, 1, 1 after  6 days becomes: Backstage passes to a TAFKAL80ETC concert, -5, 0
+   Backstage passes to a TAFKAL80ETC concert, 1, 1 after  7 days becomes: Backstage passes to a TAFKAL80ETC concert, -6, 0
+   Backstage passes to a TAFKAL80ETC concert, 1, 1 after  8 days becomes: Backstage passes to a TAFKAL80ETC concert, -7, 0
+   Backstage passes to a TAFKAL80ETC concert, 1, 1 after  9 days becomes: Backstage passes to a TAFKAL80ETC concert, -8, 0
+   Backstage passes to a TAFKAL80ETC concert, 1, 2 after  0 days becomes: Backstage passes to a TAFKAL80ETC concert, 1, 2
+   Backstage passes to a TAFKAL80ETC concert, 1, 2 after  1 days becomes: Backstage passes to a TAFKAL80ETC concert, 0, 5
+   Backstage passes to a TAFKAL80ETC concert, 1, 2 after  2 days becomes: Backstage passes to a TAFKAL80ETC concert, -1, 0
+   Backstage passes to a TAFKAL80ETC concert, 1, 2 after  3 days becomes: Backstage passes to a TAFKAL80ETC concert, -2, 0
+   Backstage passes to a TAFKAL80ETC concert, 1, 2 after  4 days becomes: Backstage passes to a TAFKAL80ETC concert, -3, 0
+   Backstage passes to a TAFKAL80ETC concert, 1, 2 after  5 days becomes: Backstage passes to a TAFKAL80ETC concert, -4, 0
+   Backstage passes to a TAFKAL80ETC concert, 1, 2 after  6 days becomes: Backstage passes to a TAFKAL80ETC concert, -5, 0
+   Backstage passes to a TAFKAL80ETC concert, 1, 2 after  7 days becomes: Backstage passes to a TAFKAL80ETC concert, -6, 0
+   Backstage passes to a TAFKAL80ETC concert, 1, 2 after  8 days becomes: Backstage passes to a TAFKAL80ETC concert, -7, 0
+   Backstage passes to a TAFKAL80ETC concert, 1, 2 after  9 days becomes: Backstage passes to a TAFKAL80ETC concert, -8, 0
+  Backstage passes to a TAFKAL80ETC concert, 1, 48 after  0 days becomes: Backstage passes to a TAFKAL80ETC concert, 1, 48
+  Backstage passes to a TAFKAL80ETC concert, 1, 48 after  1 days becomes: Backstage passes to a TAFKAL80ETC concert, 0, 50
+  Backstage passes to a TAFKAL80ETC concert, 1, 48 after  2 days becomes: Backstage passes to a TAFKAL80ETC concert, -1, 0
+  Backstage passes to a TAFKAL80ETC concert, 1, 48 after  3 days becomes: Backstage passes to a TAFKAL80ETC concert, -2, 0
+  Backstage passes to a TAFKAL80ETC concert, 1, 48 after  4 days becomes: Backstage passes to a TAFKAL80ETC concert, -3, 0
+  Backstage passes to a TAFKAL80ETC concert, 1, 48 after  5 days becomes: Backstage passes to a TAFKAL80ETC concert, -4, 0
+  Backstage passes to a TAFKAL80ETC concert, 1, 48 after  6 days becomes: Backstage passes to a TAFKAL80ETC concert, -5, 0
+  Backstage passes to a TAFKAL80ETC concert, 1, 48 after  7 days becomes: Backstage passes to a TAFKAL80ETC concert, -6, 0
+  Backstage passes to a TAFKAL80ETC concert, 1, 48 after  8 days becomes: Backstage passes to a TAFKAL80ETC concert, -7, 0
+  Backstage passes to a TAFKAL80ETC concert, 1, 48 after  9 days becomes: Backstage passes to a TAFKAL80ETC concert, -8, 0
+  Backstage passes to a TAFKAL80ETC concert, 1, 50 after  0 days becomes: Backstage passes to a TAFKAL80ETC concert, 1, 50
+  Backstage passes to a TAFKAL80ETC concert, 1, 50 after  1 days becomes: Backstage passes to a TAFKAL80ETC concert, 0, 50
+  Backstage passes to a TAFKAL80ETC concert, 1, 50 after  2 days becomes: Backstage passes to a TAFKAL80ETC concert, -1, 0
+  Backstage passes to a TAFKAL80ETC concert, 1, 50 after  3 days becomes: Backstage passes to a TAFKAL80ETC concert, -2, 0
+  Backstage passes to a TAFKAL80ETC concert, 1, 50 after  4 days becomes: Backstage passes to a TAFKAL80ETC concert, -3, 0
+  Backstage passes to a TAFKAL80ETC concert, 1, 50 after  5 days becomes: Backstage passes to a TAFKAL80ETC concert, -4, 0
+  Backstage passes to a TAFKAL80ETC concert, 1, 50 after  6 days becomes: Backstage passes to a TAFKAL80ETC concert, -5, 0
+  Backstage passes to a TAFKAL80ETC concert, 1, 50 after  7 days becomes: Backstage passes to a TAFKAL80ETC concert, -6, 0
+  Backstage passes to a TAFKAL80ETC concert, 1, 50 after  8 days becomes: Backstage passes to a TAFKAL80ETC concert, -7, 0
+  Backstage passes to a TAFKAL80ETC concert, 1, 50 after  9 days becomes: Backstage passes to a TAFKAL80ETC concert, -8, 0
+  Backstage passes to a TAFKAL80ETC concert, 11, 0 after  0 days becomes: Backstage passes to a TAFKAL80ETC concert, 11, 0
+  Backstage passes to a TAFKAL80ETC concert, 11, 0 after  1 days becomes: Backstage passes to a TAFKAL80ETC concert, 10, 1
+  Backstage passes to a TAFKAL80ETC concert, 11, 0 after  2 days becomes: Backstage passes to a TAFKAL80ETC concert, 9, 3
+  Backstage passes to a TAFKAL80ETC concert, 11, 0 after  3 days becomes: Backstage passes to a TAFKAL80ETC concert, 8, 5
+  Backstage passes to a TAFKAL80ETC concert, 11, 0 after  4 days becomes: Backstage passes to a TAFKAL80ETC concert, 7, 7
+  Backstage passes to a TAFKAL80ETC concert, 11, 0 after  5 days becomes: Backstage passes to a TAFKAL80ETC concert, 6, 9
+  Backstage passes to a TAFKAL80ETC concert, 11, 0 after  6 days becomes: Backstage passes to a TAFKAL80ETC concert, 5, 11
+  Backstage passes to a TAFKAL80ETC concert, 11, 0 after  7 days becomes: Backstage passes to a TAFKAL80ETC concert, 4, 14
+  Backstage passes to a TAFKAL80ETC concert, 11, 0 after  8 days becomes: Backstage passes to a TAFKAL80ETC concert, 3, 17
+  Backstage passes to a TAFKAL80ETC concert, 11, 0 after  9 days becomes: Backstage passes to a TAFKAL80ETC concert, 2, 20
+  Backstage passes to a TAFKAL80ETC concert, 11, 1 after  0 days becomes: Backstage passes to a TAFKAL80ETC concert, 11, 1
+  Backstage passes to a TAFKAL80ETC concert, 11, 1 after  1 days becomes: Backstage passes to a TAFKAL80ETC concert, 10, 2
+  Backstage passes to a TAFKAL80ETC concert, 11, 1 after  2 days becomes: Backstage passes to a TAFKAL80ETC concert, 9, 4
+  Backstage passes to a TAFKAL80ETC concert, 11, 1 after  3 days becomes: Backstage passes to a TAFKAL80ETC concert, 8, 6
+  Backstage passes to a TAFKAL80ETC concert, 11, 1 after  4 days becomes: Backstage passes to a TAFKAL80ETC concert, 7, 8
+  Backstage passes to a TAFKAL80ETC concert, 11, 1 after  5 days becomes: Backstage passes to a TAFKAL80ETC concert, 6, 10
+  Backstage passes to a TAFKAL80ETC concert, 11, 1 after  6 days becomes: Backstage passes to a TAFKAL80ETC concert, 5, 12
+  Backstage passes to a TAFKAL80ETC concert, 11, 1 after  7 days becomes: Backstage passes to a TAFKAL80ETC concert, 4, 15
+  Backstage passes to a TAFKAL80ETC concert, 11, 1 after  8 days becomes: Backstage passes to a TAFKAL80ETC concert, 3, 18
+  Backstage passes to a TAFKAL80ETC concert, 11, 1 after  9 days becomes: Backstage passes to a TAFKAL80ETC concert, 2, 21
+  Backstage passes to a TAFKAL80ETC concert, 11, 2 after  0 days becomes: Backstage passes to a TAFKAL80ETC concert, 11, 2
+  Backstage passes to a TAFKAL80ETC concert, 11, 2 after  1 days becomes: Backstage passes to a TAFKAL80ETC concert, 10, 3
+  Backstage passes to a TAFKAL80ETC concert, 11, 2 after  2 days becomes: Backstage passes to a TAFKAL80ETC concert, 9, 5
+  Backstage passes to a TAFKAL80ETC concert, 11, 2 after  3 days becomes: Backstage passes to a TAFKAL80ETC concert, 8, 7
+  Backstage passes to a TAFKAL80ETC concert, 11, 2 after  4 days becomes: Backstage passes to a TAFKAL80ETC concert, 7, 9
+  Backstage passes to a TAFKAL80ETC concert, 11, 2 after  5 days becomes: Backstage passes to a TAFKAL80ETC concert, 6, 11
+  Backstage passes to a TAFKAL80ETC concert, 11, 2 after  6 days becomes: Backstage passes to a TAFKAL80ETC concert, 5, 13
+  Backstage passes to a TAFKAL80ETC concert, 11, 2 after  7 days becomes: Backstage passes to a TAFKAL80ETC concert, 4, 16
+  Backstage passes to a TAFKAL80ETC concert, 11, 2 after  8 days becomes: Backstage passes to a TAFKAL80ETC concert, 3, 19
+  Backstage passes to a TAFKAL80ETC concert, 11, 2 after  9 days becomes: Backstage passes to a TAFKAL80ETC concert, 2, 22
+ Backstage passes to a TAFKAL80ETC concert, 11, 48 after  0 days becomes: Backstage passes to a TAFKAL80ETC concert, 11, 48
+ Backstage passes to a TAFKAL80ETC concert, 11, 48 after  1 days becomes: Backstage passes to a TAFKAL80ETC concert, 10, 49
+ Backstage passes to a TAFKAL80ETC concert, 11, 48 after  2 days becomes: Backstage passes to a TAFKAL80ETC concert, 9, 50
+ Backstage passes to a TAFKAL80ETC concert, 11, 48 after  3 days becomes: Backstage passes to a TAFKAL80ETC concert, 8, 50
+ Backstage passes to a TAFKAL80ETC concert, 11, 48 after  4 days becomes: Backstage passes to a TAFKAL80ETC concert, 7, 50
+ Backstage passes to a TAFKAL80ETC concert, 11, 48 after  5 days becomes: Backstage passes to a TAFKAL80ETC concert, 6, 50
+ Backstage passes to a TAFKAL80ETC concert, 11, 48 after  6 days becomes: Backstage passes to a TAFKAL80ETC concert, 5, 50
+ Backstage passes to a TAFKAL80ETC concert, 11, 48 after  7 days becomes: Backstage passes to a TAFKAL80ETC concert, 4, 50
+ Backstage passes to a TAFKAL80ETC concert, 11, 48 after  8 days becomes: Backstage passes to a TAFKAL80ETC concert, 3, 50
+ Backstage passes to a TAFKAL80ETC concert, 11, 48 after  9 days becomes: Backstage passes to a TAFKAL80ETC concert, 2, 50
+ Backstage passes to a TAFKAL80ETC concert, 11, 50 after  0 days becomes: Backstage passes to a TAFKAL80ETC concert, 11, 50
+ Backstage passes to a TAFKAL80ETC concert, 11, 50 after  1 days becomes: Backstage passes to a TAFKAL80ETC concert, 10, 50
+ Backstage passes to a TAFKAL80ETC concert, 11, 50 after  2 days becomes: Backstage passes to a TAFKAL80ETC concert, 9, 50
+ Backstage passes to a TAFKAL80ETC concert, 11, 50 after  3 days becomes: Backstage passes to a TAFKAL80ETC concert, 8, 50
+ Backstage passes to a TAFKAL80ETC concert, 11, 50 after  4 days becomes: Backstage passes to a TAFKAL80ETC concert, 7, 50
+ Backstage passes to a TAFKAL80ETC concert, 11, 50 after  5 days becomes: Backstage passes to a TAFKAL80ETC concert, 6, 50
+ Backstage passes to a TAFKAL80ETC concert, 11, 50 after  6 days becomes: Backstage passes to a TAFKAL80ETC concert, 5, 50
+ Backstage passes to a TAFKAL80ETC concert, 11, 50 after  7 days becomes: Backstage passes to a TAFKAL80ETC concert, 4, 50
+ Backstage passes to a TAFKAL80ETC concert, 11, 50 after  8 days becomes: Backstage passes to a TAFKAL80ETC concert, 3, 50
+ Backstage passes to a TAFKAL80ETC concert, 11, 50 after  9 days becomes: Backstage passes to a TAFKAL80ETC concert, 2, 50
+Conjured backstage passes to a TAFKAL80ETC concert, -1, 0 after  0 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -1, 0
+Conjured backstage passes to a TAFKAL80ETC concert, -1, 0 after  1 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -2, 0
+Conjured backstage passes to a TAFKAL80ETC concert, -1, 0 after  2 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -3, 0
+Conjured backstage passes to a TAFKAL80ETC concert, -1, 0 after  3 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -4, 0
+Conjured backstage passes to a TAFKAL80ETC concert, -1, 0 after  4 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -5, 0
+Conjured backstage passes to a TAFKAL80ETC concert, -1, 0 after  5 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -6, 0
+Conjured backstage passes to a TAFKAL80ETC concert, -1, 0 after  6 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -7, 0
+Conjured backstage passes to a TAFKAL80ETC concert, -1, 0 after  7 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -8, 0
+Conjured backstage passes to a TAFKAL80ETC concert, -1, 0 after  8 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -9, 0
+Conjured backstage passes to a TAFKAL80ETC concert, -1, 0 after  9 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -10, 0
+Conjured backstage passes to a TAFKAL80ETC concert, -1, 1 after  0 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -1, 1
+Conjured backstage passes to a TAFKAL80ETC concert, -1, 1 after  1 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -2, 0
+Conjured backstage passes to a TAFKAL80ETC concert, -1, 1 after  2 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -3, 0
+Conjured backstage passes to a TAFKAL80ETC concert, -1, 1 after  3 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -4, 0
+Conjured backstage passes to a TAFKAL80ETC concert, -1, 1 after  4 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -5, 0
+Conjured backstage passes to a TAFKAL80ETC concert, -1, 1 after  5 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -6, 0
+Conjured backstage passes to a TAFKAL80ETC concert, -1, 1 after  6 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -7, 0
+Conjured backstage passes to a TAFKAL80ETC concert, -1, 1 after  7 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -8, 0
+Conjured backstage passes to a TAFKAL80ETC concert, -1, 1 after  8 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -9, 0
+Conjured backstage passes to a TAFKAL80ETC concert, -1, 1 after  9 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -10, 0
+Conjured backstage passes to a TAFKAL80ETC concert, -1, 2 after  0 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -1, 2
+Conjured backstage passes to a TAFKAL80ETC concert, -1, 2 after  1 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -2, 0
+Conjured backstage passes to a TAFKAL80ETC concert, -1, 2 after  2 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -3, 0
+Conjured backstage passes to a TAFKAL80ETC concert, -1, 2 after  3 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -4, 0
+Conjured backstage passes to a TAFKAL80ETC concert, -1, 2 after  4 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -5, 0
+Conjured backstage passes to a TAFKAL80ETC concert, -1, 2 after  5 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -6, 0
+Conjured backstage passes to a TAFKAL80ETC concert, -1, 2 after  6 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -7, 0
+Conjured backstage passes to a TAFKAL80ETC concert, -1, 2 after  7 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -8, 0
+Conjured backstage passes to a TAFKAL80ETC concert, -1, 2 after  8 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -9, 0
+Conjured backstage passes to a TAFKAL80ETC concert, -1, 2 after  9 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -10, 0
+Conjured backstage passes to a TAFKAL80ETC concert, -1, 48 after  0 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -1, 48
+Conjured backstage passes to a TAFKAL80ETC concert, -1, 48 after  1 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -2, 0
+Conjured backstage passes to a TAFKAL80ETC concert, -1, 48 after  2 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -3, 0
+Conjured backstage passes to a TAFKAL80ETC concert, -1, 48 after  3 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -4, 0
+Conjured backstage passes to a TAFKAL80ETC concert, -1, 48 after  4 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -5, 0
+Conjured backstage passes to a TAFKAL80ETC concert, -1, 48 after  5 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -6, 0
+Conjured backstage passes to a TAFKAL80ETC concert, -1, 48 after  6 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -7, 0
+Conjured backstage passes to a TAFKAL80ETC concert, -1, 48 after  7 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -8, 0
+Conjured backstage passes to a TAFKAL80ETC concert, -1, 48 after  8 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -9, 0
+Conjured backstage passes to a TAFKAL80ETC concert, -1, 48 after  9 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -10, 0
+Conjured backstage passes to a TAFKAL80ETC concert, -1, 50 after  0 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -1, 50
+Conjured backstage passes to a TAFKAL80ETC concert, -1, 50 after  1 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -2, 0
+Conjured backstage passes to a TAFKAL80ETC concert, -1, 50 after  2 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -3, 0
+Conjured backstage passes to a TAFKAL80ETC concert, -1, 50 after  3 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -4, 0
+Conjured backstage passes to a TAFKAL80ETC concert, -1, 50 after  4 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -5, 0
+Conjured backstage passes to a TAFKAL80ETC concert, -1, 50 after  5 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -6, 0
+Conjured backstage passes to a TAFKAL80ETC concert, -1, 50 after  6 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -7, 0
+Conjured backstage passes to a TAFKAL80ETC concert, -1, 50 after  7 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -8, 0
+Conjured backstage passes to a TAFKAL80ETC concert, -1, 50 after  8 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -9, 0
+Conjured backstage passes to a TAFKAL80ETC concert, -1, 50 after  9 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -10, 0
+Conjured backstage passes to a TAFKAL80ETC concert, 0, 0 after  0 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, 0, 0
+Conjured backstage passes to a TAFKAL80ETC concert, 0, 0 after  1 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -1, 0
+Conjured backstage passes to a TAFKAL80ETC concert, 0, 0 after  2 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -2, 0
+Conjured backstage passes to a TAFKAL80ETC concert, 0, 0 after  3 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -3, 0
+Conjured backstage passes to a TAFKAL80ETC concert, 0, 0 after  4 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -4, 0
+Conjured backstage passes to a TAFKAL80ETC concert, 0, 0 after  5 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -5, 0
+Conjured backstage passes to a TAFKAL80ETC concert, 0, 0 after  6 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -6, 0
+Conjured backstage passes to a TAFKAL80ETC concert, 0, 0 after  7 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -7, 0
+Conjured backstage passes to a TAFKAL80ETC concert, 0, 0 after  8 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -8, 0
+Conjured backstage passes to a TAFKAL80ETC concert, 0, 0 after  9 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -9, 0
+Conjured backstage passes to a TAFKAL80ETC concert, 0, 1 after  0 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, 0, 1
+Conjured backstage passes to a TAFKAL80ETC concert, 0, 1 after  1 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -1, 0
+Conjured backstage passes to a TAFKAL80ETC concert, 0, 1 after  2 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -2, 0
+Conjured backstage passes to a TAFKAL80ETC concert, 0, 1 after  3 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -3, 0
+Conjured backstage passes to a TAFKAL80ETC concert, 0, 1 after  4 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -4, 0
+Conjured backstage passes to a TAFKAL80ETC concert, 0, 1 after  5 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -5, 0
+Conjured backstage passes to a TAFKAL80ETC concert, 0, 1 after  6 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -6, 0
+Conjured backstage passes to a TAFKAL80ETC concert, 0, 1 after  7 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -7, 0
+Conjured backstage passes to a TAFKAL80ETC concert, 0, 1 after  8 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -8, 0
+Conjured backstage passes to a TAFKAL80ETC concert, 0, 1 after  9 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -9, 0
+Conjured backstage passes to a TAFKAL80ETC concert, 0, 2 after  0 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, 0, 2
+Conjured backstage passes to a TAFKAL80ETC concert, 0, 2 after  1 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -1, 0
+Conjured backstage passes to a TAFKAL80ETC concert, 0, 2 after  2 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -2, 0
+Conjured backstage passes to a TAFKAL80ETC concert, 0, 2 after  3 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -3, 0
+Conjured backstage passes to a TAFKAL80ETC concert, 0, 2 after  4 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -4, 0
+Conjured backstage passes to a TAFKAL80ETC concert, 0, 2 after  5 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -5, 0
+Conjured backstage passes to a TAFKAL80ETC concert, 0, 2 after  6 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -6, 0
+Conjured backstage passes to a TAFKAL80ETC concert, 0, 2 after  7 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -7, 0
+Conjured backstage passes to a TAFKAL80ETC concert, 0, 2 after  8 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -8, 0
+Conjured backstage passes to a TAFKAL80ETC concert, 0, 2 after  9 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -9, 0
+Conjured backstage passes to a TAFKAL80ETC concert, 0, 48 after  0 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, 0, 48
+Conjured backstage passes to a TAFKAL80ETC concert, 0, 48 after  1 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -1, 0
+Conjured backstage passes to a TAFKAL80ETC concert, 0, 48 after  2 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -2, 0
+Conjured backstage passes to a TAFKAL80ETC concert, 0, 48 after  3 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -3, 0
+Conjured backstage passes to a TAFKAL80ETC concert, 0, 48 after  4 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -4, 0
+Conjured backstage passes to a TAFKAL80ETC concert, 0, 48 after  5 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -5, 0
+Conjured backstage passes to a TAFKAL80ETC concert, 0, 48 after  6 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -6, 0
+Conjured backstage passes to a TAFKAL80ETC concert, 0, 48 after  7 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -7, 0
+Conjured backstage passes to a TAFKAL80ETC concert, 0, 48 after  8 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -8, 0
+Conjured backstage passes to a TAFKAL80ETC concert, 0, 48 after  9 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -9, 0
+Conjured backstage passes to a TAFKAL80ETC concert, 0, 50 after  0 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, 0, 50
+Conjured backstage passes to a TAFKAL80ETC concert, 0, 50 after  1 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -1, 0
+Conjured backstage passes to a TAFKAL80ETC concert, 0, 50 after  2 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -2, 0
+Conjured backstage passes to a TAFKAL80ETC concert, 0, 50 after  3 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -3, 0
+Conjured backstage passes to a TAFKAL80ETC concert, 0, 50 after  4 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -4, 0
+Conjured backstage passes to a TAFKAL80ETC concert, 0, 50 after  5 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -5, 0
+Conjured backstage passes to a TAFKAL80ETC concert, 0, 50 after  6 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -6, 0
+Conjured backstage passes to a TAFKAL80ETC concert, 0, 50 after  7 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -7, 0
+Conjured backstage passes to a TAFKAL80ETC concert, 0, 50 after  8 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -8, 0
+Conjured backstage passes to a TAFKAL80ETC concert, 0, 50 after  9 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -9, 0
+Conjured backstage passes to a TAFKAL80ETC concert, 1, 0 after  0 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, 1, 0
+Conjured backstage passes to a TAFKAL80ETC concert, 1, 0 after  1 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, 0, 6
+Conjured backstage passes to a TAFKAL80ETC concert, 1, 0 after  2 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -1, 0
+Conjured backstage passes to a TAFKAL80ETC concert, 1, 0 after  3 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -2, 0
+Conjured backstage passes to a TAFKAL80ETC concert, 1, 0 after  4 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -3, 0
+Conjured backstage passes to a TAFKAL80ETC concert, 1, 0 after  5 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -4, 0
+Conjured backstage passes to a TAFKAL80ETC concert, 1, 0 after  6 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -5, 0
+Conjured backstage passes to a TAFKAL80ETC concert, 1, 0 after  7 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -6, 0
+Conjured backstage passes to a TAFKAL80ETC concert, 1, 0 after  8 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -7, 0
+Conjured backstage passes to a TAFKAL80ETC concert, 1, 0 after  9 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -8, 0
+Conjured backstage passes to a TAFKAL80ETC concert, 1, 1 after  0 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, 1, 1
+Conjured backstage passes to a TAFKAL80ETC concert, 1, 1 after  1 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, 0, 7
+Conjured backstage passes to a TAFKAL80ETC concert, 1, 1 after  2 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -1, 0
+Conjured backstage passes to a TAFKAL80ETC concert, 1, 1 after  3 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -2, 0
+Conjured backstage passes to a TAFKAL80ETC concert, 1, 1 after  4 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -3, 0
+Conjured backstage passes to a TAFKAL80ETC concert, 1, 1 after  5 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -4, 0
+Conjured backstage passes to a TAFKAL80ETC concert, 1, 1 after  6 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -5, 0
+Conjured backstage passes to a TAFKAL80ETC concert, 1, 1 after  7 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -6, 0
+Conjured backstage passes to a TAFKAL80ETC concert, 1, 1 after  8 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -7, 0
+Conjured backstage passes to a TAFKAL80ETC concert, 1, 1 after  9 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -8, 0
+Conjured backstage passes to a TAFKAL80ETC concert, 1, 2 after  0 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, 1, 2
+Conjured backstage passes to a TAFKAL80ETC concert, 1, 2 after  1 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, 0, 8
+Conjured backstage passes to a TAFKAL80ETC concert, 1, 2 after  2 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -1, 0
+Conjured backstage passes to a TAFKAL80ETC concert, 1, 2 after  3 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -2, 0
+Conjured backstage passes to a TAFKAL80ETC concert, 1, 2 after  4 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -3, 0
+Conjured backstage passes to a TAFKAL80ETC concert, 1, 2 after  5 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -4, 0
+Conjured backstage passes to a TAFKAL80ETC concert, 1, 2 after  6 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -5, 0
+Conjured backstage passes to a TAFKAL80ETC concert, 1, 2 after  7 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -6, 0
+Conjured backstage passes to a TAFKAL80ETC concert, 1, 2 after  8 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -7, 0
+Conjured backstage passes to a TAFKAL80ETC concert, 1, 2 after  9 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -8, 0
+Conjured backstage passes to a TAFKAL80ETC concert, 1, 48 after  0 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, 1, 48
+Conjured backstage passes to a TAFKAL80ETC concert, 1, 48 after  1 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, 0, 50
+Conjured backstage passes to a TAFKAL80ETC concert, 1, 48 after  2 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -1, 0
+Conjured backstage passes to a TAFKAL80ETC concert, 1, 48 after  3 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -2, 0
+Conjured backstage passes to a TAFKAL80ETC concert, 1, 48 after  4 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -3, 0
+Conjured backstage passes to a TAFKAL80ETC concert, 1, 48 after  5 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -4, 0
+Conjured backstage passes to a TAFKAL80ETC concert, 1, 48 after  6 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -5, 0
+Conjured backstage passes to a TAFKAL80ETC concert, 1, 48 after  7 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -6, 0
+Conjured backstage passes to a TAFKAL80ETC concert, 1, 48 after  8 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -7, 0
+Conjured backstage passes to a TAFKAL80ETC concert, 1, 48 after  9 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -8, 0
+Conjured backstage passes to a TAFKAL80ETC concert, 1, 50 after  0 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, 1, 50
+Conjured backstage passes to a TAFKAL80ETC concert, 1, 50 after  1 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, 0, 50
+Conjured backstage passes to a TAFKAL80ETC concert, 1, 50 after  2 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -1, 0
+Conjured backstage passes to a TAFKAL80ETC concert, 1, 50 after  3 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -2, 0
+Conjured backstage passes to a TAFKAL80ETC concert, 1, 50 after  4 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -3, 0
+Conjured backstage passes to a TAFKAL80ETC concert, 1, 50 after  5 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -4, 0
+Conjured backstage passes to a TAFKAL80ETC concert, 1, 50 after  6 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -5, 0
+Conjured backstage passes to a TAFKAL80ETC concert, 1, 50 after  7 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -6, 0
+Conjured backstage passes to a TAFKAL80ETC concert, 1, 50 after  8 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -7, 0
+Conjured backstage passes to a TAFKAL80ETC concert, 1, 50 after  9 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, -8, 0
+Conjured backstage passes to a TAFKAL80ETC concert, 11, 0 after  0 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, 11, 0
+Conjured backstage passes to a TAFKAL80ETC concert, 11, 0 after  1 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, 10, 2
+Conjured backstage passes to a TAFKAL80ETC concert, 11, 0 after  2 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, 9, 6
+Conjured backstage passes to a TAFKAL80ETC concert, 11, 0 after  3 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, 8, 10
+Conjured backstage passes to a TAFKAL80ETC concert, 11, 0 after  4 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, 7, 14
+Conjured backstage passes to a TAFKAL80ETC concert, 11, 0 after  5 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, 6, 18
+Conjured backstage passes to a TAFKAL80ETC concert, 11, 0 after  6 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, 5, 22
+Conjured backstage passes to a TAFKAL80ETC concert, 11, 0 after  7 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, 4, 28
+Conjured backstage passes to a TAFKAL80ETC concert, 11, 0 after  8 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, 3, 34
+Conjured backstage passes to a TAFKAL80ETC concert, 11, 0 after  9 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, 2, 40
+Conjured backstage passes to a TAFKAL80ETC concert, 11, 1 after  0 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, 11, 1
+Conjured backstage passes to a TAFKAL80ETC concert, 11, 1 after  1 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, 10, 3
+Conjured backstage passes to a TAFKAL80ETC concert, 11, 1 after  2 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, 9, 7
+Conjured backstage passes to a TAFKAL80ETC concert, 11, 1 after  3 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, 8, 11
+Conjured backstage passes to a TAFKAL80ETC concert, 11, 1 after  4 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, 7, 15
+Conjured backstage passes to a TAFKAL80ETC concert, 11, 1 after  5 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, 6, 19
+Conjured backstage passes to a TAFKAL80ETC concert, 11, 1 after  6 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, 5, 23
+Conjured backstage passes to a TAFKAL80ETC concert, 11, 1 after  7 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, 4, 29
+Conjured backstage passes to a TAFKAL80ETC concert, 11, 1 after  8 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, 3, 35
+Conjured backstage passes to a TAFKAL80ETC concert, 11, 1 after  9 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, 2, 41
+Conjured backstage passes to a TAFKAL80ETC concert, 11, 2 after  0 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, 11, 2
+Conjured backstage passes to a TAFKAL80ETC concert, 11, 2 after  1 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, 10, 4
+Conjured backstage passes to a TAFKAL80ETC concert, 11, 2 after  2 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, 9, 8
+Conjured backstage passes to a TAFKAL80ETC concert, 11, 2 after  3 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, 8, 12
+Conjured backstage passes to a TAFKAL80ETC concert, 11, 2 after  4 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, 7, 16
+Conjured backstage passes to a TAFKAL80ETC concert, 11, 2 after  5 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, 6, 20
+Conjured backstage passes to a TAFKAL80ETC concert, 11, 2 after  6 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, 5, 24
+Conjured backstage passes to a TAFKAL80ETC concert, 11, 2 after  7 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, 4, 30
+Conjured backstage passes to a TAFKAL80ETC concert, 11, 2 after  8 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, 3, 36
+Conjured backstage passes to a TAFKAL80ETC concert, 11, 2 after  9 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, 2, 42
+Conjured backstage passes to a TAFKAL80ETC concert, 11, 48 after  0 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, 11, 48
+Conjured backstage passes to a TAFKAL80ETC concert, 11, 48 after  1 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, 10, 50
+Conjured backstage passes to a TAFKAL80ETC concert, 11, 48 after  2 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, 9, 50
+Conjured backstage passes to a TAFKAL80ETC concert, 11, 48 after  3 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, 8, 50
+Conjured backstage passes to a TAFKAL80ETC concert, 11, 48 after  4 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, 7, 50
+Conjured backstage passes to a TAFKAL80ETC concert, 11, 48 after  5 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, 6, 50
+Conjured backstage passes to a TAFKAL80ETC concert, 11, 48 after  6 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, 5, 50
+Conjured backstage passes to a TAFKAL80ETC concert, 11, 48 after  7 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, 4, 50
+Conjured backstage passes to a TAFKAL80ETC concert, 11, 48 after  8 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, 3, 50
+Conjured backstage passes to a TAFKAL80ETC concert, 11, 48 after  9 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, 2, 50
+Conjured backstage passes to a TAFKAL80ETC concert, 11, 50 after  0 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, 11, 50
+Conjured backstage passes to a TAFKAL80ETC concert, 11, 50 after  1 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, 10, 50
+Conjured backstage passes to a TAFKAL80ETC concert, 11, 50 after  2 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, 9, 50
+Conjured backstage passes to a TAFKAL80ETC concert, 11, 50 after  3 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, 8, 50
+Conjured backstage passes to a TAFKAL80ETC concert, 11, 50 after  4 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, 7, 50
+Conjured backstage passes to a TAFKAL80ETC concert, 11, 50 after  5 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, 6, 50
+Conjured backstage passes to a TAFKAL80ETC concert, 11, 50 after  6 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, 5, 50
+Conjured backstage passes to a TAFKAL80ETC concert, 11, 50 after  7 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, 4, 50
+Conjured backstage passes to a TAFKAL80ETC concert, 11, 50 after  8 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, 3, 50
+Conjured backstage passes to a TAFKAL80ETC concert, 11, 50 after  9 days becomes: Conjured backstage passes to a TAFKAL80ETC concert, 2, 50
+                         Burt's Baked Beans, -1, 0 after  0 days becomes: Burt's Baked Beans, -1, 0
+                         Burt's Baked Beans, -1, 0 after  1 days becomes: Burt's Baked Beans, -2, 0
+                         Burt's Baked Beans, -1, 0 after  2 days becomes: Burt's Baked Beans, -3, 0
+                         Burt's Baked Beans, -1, 0 after  3 days becomes: Burt's Baked Beans, -4, 0
+                         Burt's Baked Beans, -1, 0 after  4 days becomes: Burt's Baked Beans, -5, 0
+                         Burt's Baked Beans, -1, 0 after  5 days becomes: Burt's Baked Beans, -6, 0
+                         Burt's Baked Beans, -1, 0 after  6 days becomes: Burt's Baked Beans, -7, 0
+                         Burt's Baked Beans, -1, 0 after  7 days becomes: Burt's Baked Beans, -8, 0
+                         Burt's Baked Beans, -1, 0 after  8 days becomes: Burt's Baked Beans, -9, 0
+                         Burt's Baked Beans, -1, 0 after  9 days becomes: Burt's Baked Beans, -10, 0
+                         Burt's Baked Beans, -1, 1 after  0 days becomes: Burt's Baked Beans, -1, 1
+                         Burt's Baked Beans, -1, 1 after  1 days becomes: Burt's Baked Beans, -2, 0
+                         Burt's Baked Beans, -1, 1 after  2 days becomes: Burt's Baked Beans, -3, 0
+                         Burt's Baked Beans, -1, 1 after  3 days becomes: Burt's Baked Beans, -4, 0
+                         Burt's Baked Beans, -1, 1 after  4 days becomes: Burt's Baked Beans, -5, 0
+                         Burt's Baked Beans, -1, 1 after  5 days becomes: Burt's Baked Beans, -6, 0
+                         Burt's Baked Beans, -1, 1 after  6 days becomes: Burt's Baked Beans, -7, 0
+                         Burt's Baked Beans, -1, 1 after  7 days becomes: Burt's Baked Beans, -8, 0
+                         Burt's Baked Beans, -1, 1 after  8 days becomes: Burt's Baked Beans, -9, 0
+                         Burt's Baked Beans, -1, 1 after  9 days becomes: Burt's Baked Beans, -10, 0
+                         Burt's Baked Beans, -1, 2 after  0 days becomes: Burt's Baked Beans, -1, 2
+                         Burt's Baked Beans, -1, 2 after  1 days becomes: Burt's Baked Beans, -2, 0
+                         Burt's Baked Beans, -1, 2 after  2 days becomes: Burt's Baked Beans, -3, 0
+                         Burt's Baked Beans, -1, 2 after  3 days becomes: Burt's Baked Beans, -4, 0
+                         Burt's Baked Beans, -1, 2 after  4 days becomes: Burt's Baked Beans, -5, 0
+                         Burt's Baked Beans, -1, 2 after  5 days becomes: Burt's Baked Beans, -6, 0
+                         Burt's Baked Beans, -1, 2 after  6 days becomes: Burt's Baked Beans, -7, 0
+                         Burt's Baked Beans, -1, 2 after  7 days becomes: Burt's Baked Beans, -8, 0
+                         Burt's Baked Beans, -1, 2 after  8 days becomes: Burt's Baked Beans, -9, 0
+                         Burt's Baked Beans, -1, 2 after  9 days becomes: Burt's Baked Beans, -10, 0
+                        Burt's Baked Beans, -1, 50 after  0 days becomes: Burt's Baked Beans, -1, 50
+                        Burt's Baked Beans, -1, 50 after  1 days becomes: Burt's Baked Beans, -2, 48
+                        Burt's Baked Beans, -1, 50 after  2 days becomes: Burt's Baked Beans, -3, 46
+                        Burt's Baked Beans, -1, 50 after  3 days becomes: Burt's Baked Beans, -4, 44
+                        Burt's Baked Beans, -1, 50 after  4 days becomes: Burt's Baked Beans, -5, 42
+                        Burt's Baked Beans, -1, 50 after  5 days becomes: Burt's Baked Beans, -6, 40
+                        Burt's Baked Beans, -1, 50 after  6 days becomes: Burt's Baked Beans, -7, 38
+                        Burt's Baked Beans, -1, 50 after  7 days becomes: Burt's Baked Beans, -8, 36
+                        Burt's Baked Beans, -1, 50 after  8 days becomes: Burt's Baked Beans, -9, 34
+                        Burt's Baked Beans, -1, 50 after  9 days becomes: Burt's Baked Beans, -10, 32
+                          Burt's Baked Beans, 0, 0 after  0 days becomes: Burt's Baked Beans, 0, 0
+                          Burt's Baked Beans, 0, 0 after  1 days becomes: Burt's Baked Beans, -1, 0
+                          Burt's Baked Beans, 0, 0 after  2 days becomes: Burt's Baked Beans, -2, 0
+                          Burt's Baked Beans, 0, 0 after  3 days becomes: Burt's Baked Beans, -3, 0
+                          Burt's Baked Beans, 0, 0 after  4 days becomes: Burt's Baked Beans, -4, 0
+                          Burt's Baked Beans, 0, 0 after  5 days becomes: Burt's Baked Beans, -5, 0
+                          Burt's Baked Beans, 0, 0 after  6 days becomes: Burt's Baked Beans, -6, 0
+                          Burt's Baked Beans, 0, 0 after  7 days becomes: Burt's Baked Beans, -7, 0
+                          Burt's Baked Beans, 0, 0 after  8 days becomes: Burt's Baked Beans, -8, 0
+                          Burt's Baked Beans, 0, 0 after  9 days becomes: Burt's Baked Beans, -9, 0
+                          Burt's Baked Beans, 0, 1 after  0 days becomes: Burt's Baked Beans, 0, 1
+                          Burt's Baked Beans, 0, 1 after  1 days becomes: Burt's Baked Beans, -1, 0
+                          Burt's Baked Beans, 0, 1 after  2 days becomes: Burt's Baked Beans, -2, 0
+                          Burt's Baked Beans, 0, 1 after  3 days becomes: Burt's Baked Beans, -3, 0
+                          Burt's Baked Beans, 0, 1 after  4 days becomes: Burt's Baked Beans, -4, 0
+                          Burt's Baked Beans, 0, 1 after  5 days becomes: Burt's Baked Beans, -5, 0
+                          Burt's Baked Beans, 0, 1 after  6 days becomes: Burt's Baked Beans, -6, 0
+                          Burt's Baked Beans, 0, 1 after  7 days becomes: Burt's Baked Beans, -7, 0
+                          Burt's Baked Beans, 0, 1 after  8 days becomes: Burt's Baked Beans, -8, 0
+                          Burt's Baked Beans, 0, 1 after  9 days becomes: Burt's Baked Beans, -9, 0
+                          Burt's Baked Beans, 0, 2 after  0 days becomes: Burt's Baked Beans, 0, 2
+                          Burt's Baked Beans, 0, 2 after  1 days becomes: Burt's Baked Beans, -1, 0
+                          Burt's Baked Beans, 0, 2 after  2 days becomes: Burt's Baked Beans, -2, 0
+                          Burt's Baked Beans, 0, 2 after  3 days becomes: Burt's Baked Beans, -3, 0
+                          Burt's Baked Beans, 0, 2 after  4 days becomes: Burt's Baked Beans, -4, 0
+                          Burt's Baked Beans, 0, 2 after  5 days becomes: Burt's Baked Beans, -5, 0
+                          Burt's Baked Beans, 0, 2 after  6 days becomes: Burt's Baked Beans, -6, 0
+                          Burt's Baked Beans, 0, 2 after  7 days becomes: Burt's Baked Beans, -7, 0
+                          Burt's Baked Beans, 0, 2 after  8 days becomes: Burt's Baked Beans, -8, 0
+                          Burt's Baked Beans, 0, 2 after  9 days becomes: Burt's Baked Beans, -9, 0
+                         Burt's Baked Beans, 0, 50 after  0 days becomes: Burt's Baked Beans, 0, 50
+                         Burt's Baked Beans, 0, 50 after  1 days becomes: Burt's Baked Beans, -1, 48
+                         Burt's Baked Beans, 0, 50 after  2 days becomes: Burt's Baked Beans, -2, 46
+                         Burt's Baked Beans, 0, 50 after  3 days becomes: Burt's Baked Beans, -3, 44
+                         Burt's Baked Beans, 0, 50 after  4 days becomes: Burt's Baked Beans, -4, 42
+                         Burt's Baked Beans, 0, 50 after  5 days becomes: Burt's Baked Beans, -5, 40
+                         Burt's Baked Beans, 0, 50 after  6 days becomes: Burt's Baked Beans, -6, 38
+                         Burt's Baked Beans, 0, 50 after  7 days becomes: Burt's Baked Beans, -7, 36
+                         Burt's Baked Beans, 0, 50 after  8 days becomes: Burt's Baked Beans, -8, 34
+                         Burt's Baked Beans, 0, 50 after  9 days becomes: Burt's Baked Beans, -9, 32
+                          Burt's Baked Beans, 1, 0 after  0 days becomes: Burt's Baked Beans, 1, 0
+                          Burt's Baked Beans, 1, 0 after  1 days becomes: Burt's Baked Beans, 0, 0
+                          Burt's Baked Beans, 1, 0 after  2 days becomes: Burt's Baked Beans, -1, 0
+                          Burt's Baked Beans, 1, 0 after  3 days becomes: Burt's Baked Beans, -2, 0
+                          Burt's Baked Beans, 1, 0 after  4 days becomes: Burt's Baked Beans, -3, 0
+                          Burt's Baked Beans, 1, 0 after  5 days becomes: Burt's Baked Beans, -4, 0
+                          Burt's Baked Beans, 1, 0 after  6 days becomes: Burt's Baked Beans, -5, 0
+                          Burt's Baked Beans, 1, 0 after  7 days becomes: Burt's Baked Beans, -6, 0
+                          Burt's Baked Beans, 1, 0 after  8 days becomes: Burt's Baked Beans, -7, 0
+                          Burt's Baked Beans, 1, 0 after  9 days becomes: Burt's Baked Beans, -8, 0
+                          Burt's Baked Beans, 1, 1 after  0 days becomes: Burt's Baked Beans, 1, 1
+                          Burt's Baked Beans, 1, 1 after  1 days becomes: Burt's Baked Beans, 0, 0
+                          Burt's Baked Beans, 1, 1 after  2 days becomes: Burt's Baked Beans, -1, 0
+                          Burt's Baked Beans, 1, 1 after  3 days becomes: Burt's Baked Beans, -2, 0
+                          Burt's Baked Beans, 1, 1 after  4 days becomes: Burt's Baked Beans, -3, 0
+                          Burt's Baked Beans, 1, 1 after  5 days becomes: Burt's Baked Beans, -4, 0
+                          Burt's Baked Beans, 1, 1 after  6 days becomes: Burt's Baked Beans, -5, 0
+                          Burt's Baked Beans, 1, 1 after  7 days becomes: Burt's Baked Beans, -6, 0
+                          Burt's Baked Beans, 1, 1 after  8 days becomes: Burt's Baked Beans, -7, 0
+                          Burt's Baked Beans, 1, 1 after  9 days becomes: Burt's Baked Beans, -8, 0
+                          Burt's Baked Beans, 1, 2 after  0 days becomes: Burt's Baked Beans, 1, 2
+                          Burt's Baked Beans, 1, 2 after  1 days becomes: Burt's Baked Beans, 0, 1
+                          Burt's Baked Beans, 1, 2 after  2 days becomes: Burt's Baked Beans, -1, 0
+                          Burt's Baked Beans, 1, 2 after  3 days becomes: Burt's Baked Beans, -2, 0
+                          Burt's Baked Beans, 1, 2 after  4 days becomes: Burt's Baked Beans, -3, 0
+                          Burt's Baked Beans, 1, 2 after  5 days becomes: Burt's Baked Beans, -4, 0
+                          Burt's Baked Beans, 1, 2 after  6 days becomes: Burt's Baked Beans, -5, 0
+                          Burt's Baked Beans, 1, 2 after  7 days becomes: Burt's Baked Beans, -6, 0
+                          Burt's Baked Beans, 1, 2 after  8 days becomes: Burt's Baked Beans, -7, 0
+                          Burt's Baked Beans, 1, 2 after  9 days becomes: Burt's Baked Beans, -8, 0
+                         Burt's Baked Beans, 1, 50 after  0 days becomes: Burt's Baked Beans, 1, 50
+                         Burt's Baked Beans, 1, 50 after  1 days becomes: Burt's Baked Beans, 0, 49
+                         Burt's Baked Beans, 1, 50 after  2 days becomes: Burt's Baked Beans, -1, 47
+                         Burt's Baked Beans, 1, 50 after  3 days becomes: Burt's Baked Beans, -2, 45
+                         Burt's Baked Beans, 1, 50 after  4 days becomes: Burt's Baked Beans, -3, 43
+                         Burt's Baked Beans, 1, 50 after  5 days becomes: Burt's Baked Beans, -4, 41
+                         Burt's Baked Beans, 1, 50 after  6 days becomes: Burt's Baked Beans, -5, 39
+                         Burt's Baked Beans, 1, 50 after  7 days becomes: Burt's Baked Beans, -6, 37
+                         Burt's Baked Beans, 1, 50 after  8 days becomes: Burt's Baked Beans, -7, 35
+                         Burt's Baked Beans, 1, 50 after  9 days becomes: Burt's Baked Beans, -8, 33
+                         Burt's Baked Beans, 11, 0 after  0 days becomes: Burt's Baked Beans, 11, 0
+                         Burt's Baked Beans, 11, 0 after  1 days becomes: Burt's Baked Beans, 10, 0
+                         Burt's Baked Beans, 11, 0 after  2 days becomes: Burt's Baked Beans, 9, 0
+                         Burt's Baked Beans, 11, 0 after  3 days becomes: Burt's Baked Beans, 8, 0
+                         Burt's Baked Beans, 11, 0 after  4 days becomes: Burt's Baked Beans, 7, 0
+                         Burt's Baked Beans, 11, 0 after  5 days becomes: Burt's Baked Beans, 6, 0
+                         Burt's Baked Beans, 11, 0 after  6 days becomes: Burt's Baked Beans, 5, 0
+                         Burt's Baked Beans, 11, 0 after  7 days becomes: Burt's Baked Beans, 4, 0
+                         Burt's Baked Beans, 11, 0 after  8 days becomes: Burt's Baked Beans, 3, 0
+                         Burt's Baked Beans, 11, 0 after  9 days becomes: Burt's Baked Beans, 2, 0
+                         Burt's Baked Beans, 11, 1 after  0 days becomes: Burt's Baked Beans, 11, 1
+                         Burt's Baked Beans, 11, 1 after  1 days becomes: Burt's Baked Beans, 10, 0
+                         Burt's Baked Beans, 11, 1 after  2 days becomes: Burt's Baked Beans, 9, 0
+                         Burt's Baked Beans, 11, 1 after  3 days becomes: Burt's Baked Beans, 8, 0
+                         Burt's Baked Beans, 11, 1 after  4 days becomes: Burt's Baked Beans, 7, 0
+                         Burt's Baked Beans, 11, 1 after  5 days becomes: Burt's Baked Beans, 6, 0
+                         Burt's Baked Beans, 11, 1 after  6 days becomes: Burt's Baked Beans, 5, 0
+                         Burt's Baked Beans, 11, 1 after  7 days becomes: Burt's Baked Beans, 4, 0
+                         Burt's Baked Beans, 11, 1 after  8 days becomes: Burt's Baked Beans, 3, 0
+                         Burt's Baked Beans, 11, 1 after  9 days becomes: Burt's Baked Beans, 2, 0
+                         Burt's Baked Beans, 11, 2 after  0 days becomes: Burt's Baked Beans, 11, 2
+                         Burt's Baked Beans, 11, 2 after  1 days becomes: Burt's Baked Beans, 10, 1
+                         Burt's Baked Beans, 11, 2 after  2 days becomes: Burt's Baked Beans, 9, 0
+                         Burt's Baked Beans, 11, 2 after  3 days becomes: Burt's Baked Beans, 8, 0
+                         Burt's Baked Beans, 11, 2 after  4 days becomes: Burt's Baked Beans, 7, 0
+                         Burt's Baked Beans, 11, 2 after  5 days becomes: Burt's Baked Beans, 6, 0
+                         Burt's Baked Beans, 11, 2 after  6 days becomes: Burt's Baked Beans, 5, 0
+                         Burt's Baked Beans, 11, 2 after  7 days becomes: Burt's Baked Beans, 4, 0
+                         Burt's Baked Beans, 11, 2 after  8 days becomes: Burt's Baked Beans, 3, 0
+                         Burt's Baked Beans, 11, 2 after  9 days becomes: Burt's Baked Beans, 2, 0
+                        Burt's Baked Beans, 11, 50 after  0 days becomes: Burt's Baked Beans, 11, 50
+                        Burt's Baked Beans, 11, 50 after  1 days becomes: Burt's Baked Beans, 10, 49
+                        Burt's Baked Beans, 11, 50 after  2 days becomes: Burt's Baked Beans, 9, 48
+                        Burt's Baked Beans, 11, 50 after  3 days becomes: Burt's Baked Beans, 8, 47
+                        Burt's Baked Beans, 11, 50 after  4 days becomes: Burt's Baked Beans, 7, 46
+                        Burt's Baked Beans, 11, 50 after  5 days becomes: Burt's Baked Beans, 6, 45
+                        Burt's Baked Beans, 11, 50 after  6 days becomes: Burt's Baked Beans, 5, 44
+                        Burt's Baked Beans, 11, 50 after  7 days becomes: Burt's Baked Beans, 4, 43
+                        Burt's Baked Beans, 11, 50 after  8 days becomes: Burt's Baked Beans, 3, 42
+                        Burt's Baked Beans, 11, 50 after  9 days becomes: Burt's Baked Beans, 2, 41
+                         Conjured Mana Cake, -1, 0 after  0 days becomes: Conjured Mana Cake, -1, 0
+                         Conjured Mana Cake, -1, 0 after  1 days becomes: Conjured Mana Cake, -2, 0
+                         Conjured Mana Cake, -1, 0 after  2 days becomes: Conjured Mana Cake, -3, 0
+                         Conjured Mana Cake, -1, 0 after  3 days becomes: Conjured Mana Cake, -4, 0
+                         Conjured Mana Cake, -1, 0 after  4 days becomes: Conjured Mana Cake, -5, 0
+                         Conjured Mana Cake, -1, 0 after  5 days becomes: Conjured Mana Cake, -6, 0
+                         Conjured Mana Cake, -1, 0 after  6 days becomes: Conjured Mana Cake, -7, 0
+                         Conjured Mana Cake, -1, 0 after  7 days becomes: Conjured Mana Cake, -8, 0
+                         Conjured Mana Cake, -1, 0 after  8 days becomes: Conjured Mana Cake, -9, 0
+                         Conjured Mana Cake, -1, 0 after  9 days becomes: Conjured Mana Cake, -10, 0
+                         Conjured Mana Cake, -1, 1 after  0 days becomes: Conjured Mana Cake, -1, 1
+                         Conjured Mana Cake, -1, 1 after  1 days becomes: Conjured Mana Cake, -2, 0
+                         Conjured Mana Cake, -1, 1 after  2 days becomes: Conjured Mana Cake, -3, 0
+                         Conjured Mana Cake, -1, 1 after  3 days becomes: Conjured Mana Cake, -4, 0
+                         Conjured Mana Cake, -1, 1 after  4 days becomes: Conjured Mana Cake, -5, 0
+                         Conjured Mana Cake, -1, 1 after  5 days becomes: Conjured Mana Cake, -6, 0
+                         Conjured Mana Cake, -1, 1 after  6 days becomes: Conjured Mana Cake, -7, 0
+                         Conjured Mana Cake, -1, 1 after  7 days becomes: Conjured Mana Cake, -8, 0
+                         Conjured Mana Cake, -1, 1 after  8 days becomes: Conjured Mana Cake, -9, 0
+                         Conjured Mana Cake, -1, 1 after  9 days becomes: Conjured Mana Cake, -10, 0
+                         Conjured Mana Cake, -1, 2 after  0 days becomes: Conjured Mana Cake, -1, 2
+                         Conjured Mana Cake, -1, 2 after  1 days becomes: Conjured Mana Cake, -2, 0
+                         Conjured Mana Cake, -1, 2 after  2 days becomes: Conjured Mana Cake, -3, 0
+                         Conjured Mana Cake, -1, 2 after  3 days becomes: Conjured Mana Cake, -4, 0
+                         Conjured Mana Cake, -1, 2 after  4 days becomes: Conjured Mana Cake, -5, 0
+                         Conjured Mana Cake, -1, 2 after  5 days becomes: Conjured Mana Cake, -6, 0
+                         Conjured Mana Cake, -1, 2 after  6 days becomes: Conjured Mana Cake, -7, 0
+                         Conjured Mana Cake, -1, 2 after  7 days becomes: Conjured Mana Cake, -8, 0
+                         Conjured Mana Cake, -1, 2 after  8 days becomes: Conjured Mana Cake, -9, 0
+                         Conjured Mana Cake, -1, 2 after  9 days becomes: Conjured Mana Cake, -10, 0
+                        Conjured Mana Cake, -1, 50 after  0 days becomes: Conjured Mana Cake, -1, 50
+                        Conjured Mana Cake, -1, 50 after  1 days becomes: Conjured Mana Cake, -2, 46
+                        Conjured Mana Cake, -1, 50 after  2 days becomes: Conjured Mana Cake, -3, 42
+                        Conjured Mana Cake, -1, 50 after  3 days becomes: Conjured Mana Cake, -4, 38
+                        Conjured Mana Cake, -1, 50 after  4 days becomes: Conjured Mana Cake, -5, 34
+                        Conjured Mana Cake, -1, 50 after  5 days becomes: Conjured Mana Cake, -6, 30
+                        Conjured Mana Cake, -1, 50 after  6 days becomes: Conjured Mana Cake, -7, 26
+                        Conjured Mana Cake, -1, 50 after  7 days becomes: Conjured Mana Cake, -8, 22
+                        Conjured Mana Cake, -1, 50 after  8 days becomes: Conjured Mana Cake, -9, 18
+                        Conjured Mana Cake, -1, 50 after  9 days becomes: Conjured Mana Cake, -10, 14
+                          Conjured Mana Cake, 0, 0 after  0 days becomes: Conjured Mana Cake, 0, 0
+                          Conjured Mana Cake, 0, 0 after  1 days becomes: Conjured Mana Cake, -1, 0
+                          Conjured Mana Cake, 0, 0 after  2 days becomes: Conjured Mana Cake, -2, 0
+                          Conjured Mana Cake, 0, 0 after  3 days becomes: Conjured Mana Cake, -3, 0
+                          Conjured Mana Cake, 0, 0 after  4 days becomes: Conjured Mana Cake, -4, 0
+                          Conjured Mana Cake, 0, 0 after  5 days becomes: Conjured Mana Cake, -5, 0
+                          Conjured Mana Cake, 0, 0 after  6 days becomes: Conjured Mana Cake, -6, 0
+                          Conjured Mana Cake, 0, 0 after  7 days becomes: Conjured Mana Cake, -7, 0
+                          Conjured Mana Cake, 0, 0 after  8 days becomes: Conjured Mana Cake, -8, 0
+                          Conjured Mana Cake, 0, 0 after  9 days becomes: Conjured Mana Cake, -9, 0
+                          Conjured Mana Cake, 0, 1 after  0 days becomes: Conjured Mana Cake, 0, 1
+                          Conjured Mana Cake, 0, 1 after  1 days becomes: Conjured Mana Cake, -1, 0
+                          Conjured Mana Cake, 0, 1 after  2 days becomes: Conjured Mana Cake, -2, 0
+                          Conjured Mana Cake, 0, 1 after  3 days becomes: Conjured Mana Cake, -3, 0
+                          Conjured Mana Cake, 0, 1 after  4 days becomes: Conjured Mana Cake, -4, 0
+                          Conjured Mana Cake, 0, 1 after  5 days becomes: Conjured Mana Cake, -5, 0
+                          Conjured Mana Cake, 0, 1 after  6 days becomes: Conjured Mana Cake, -6, 0
+                          Conjured Mana Cake, 0, 1 after  7 days becomes: Conjured Mana Cake, -7, 0
+                          Conjured Mana Cake, 0, 1 after  8 days becomes: Conjured Mana Cake, -8, 0
+                          Conjured Mana Cake, 0, 1 after  9 days becomes: Conjured Mana Cake, -9, 0
+                          Conjured Mana Cake, 0, 2 after  0 days becomes: Conjured Mana Cake, 0, 2
+                          Conjured Mana Cake, 0, 2 after  1 days becomes: Conjured Mana Cake, -1, 0
+                          Conjured Mana Cake, 0, 2 after  2 days becomes: Conjured Mana Cake, -2, 0
+                          Conjured Mana Cake, 0, 2 after  3 days becomes: Conjured Mana Cake, -3, 0
+                          Conjured Mana Cake, 0, 2 after  4 days becomes: Conjured Mana Cake, -4, 0
+                          Conjured Mana Cake, 0, 2 after  5 days becomes: Conjured Mana Cake, -5, 0
+                          Conjured Mana Cake, 0, 2 after  6 days becomes: Conjured Mana Cake, -6, 0
+                          Conjured Mana Cake, 0, 2 after  7 days becomes: Conjured Mana Cake, -7, 0
+                          Conjured Mana Cake, 0, 2 after  8 days becomes: Conjured Mana Cake, -8, 0
+                          Conjured Mana Cake, 0, 2 after  9 days becomes: Conjured Mana Cake, -9, 0
+                         Conjured Mana Cake, 0, 50 after  0 days becomes: Conjured Mana Cake, 0, 50
+                         Conjured Mana Cake, 0, 50 after  1 days becomes: Conjured Mana Cake, -1, 46
+                         Conjured Mana Cake, 0, 50 after  2 days becomes: Conjured Mana Cake, -2, 42
+                         Conjured Mana Cake, 0, 50 after  3 days becomes: Conjured Mana Cake, -3, 38
+                         Conjured Mana Cake, 0, 50 after  4 days becomes: Conjured Mana Cake, -4, 34
+                         Conjured Mana Cake, 0, 50 after  5 days becomes: Conjured Mana Cake, -5, 30
+                         Conjured Mana Cake, 0, 50 after  6 days becomes: Conjured Mana Cake, -6, 26
+                         Conjured Mana Cake, 0, 50 after  7 days becomes: Conjured Mana Cake, -7, 22
+                         Conjured Mana Cake, 0, 50 after  8 days becomes: Conjured Mana Cake, -8, 18
+                         Conjured Mana Cake, 0, 50 after  9 days becomes: Conjured Mana Cake, -9, 14
+                          Conjured Mana Cake, 1, 0 after  0 days becomes: Conjured Mana Cake, 1, 0
+                          Conjured Mana Cake, 1, 0 after  1 days becomes: Conjured Mana Cake, 0, 0
+                          Conjured Mana Cake, 1, 0 after  2 days becomes: Conjured Mana Cake, -1, 0
+                          Conjured Mana Cake, 1, 0 after  3 days becomes: Conjured Mana Cake, -2, 0
+                          Conjured Mana Cake, 1, 0 after  4 days becomes: Conjured Mana Cake, -3, 0
+                          Conjured Mana Cake, 1, 0 after  5 days becomes: Conjured Mana Cake, -4, 0
+                          Conjured Mana Cake, 1, 0 after  6 days becomes: Conjured Mana Cake, -5, 0
+                          Conjured Mana Cake, 1, 0 after  7 days becomes: Conjured Mana Cake, -6, 0
+                          Conjured Mana Cake, 1, 0 after  8 days becomes: Conjured Mana Cake, -7, 0
+                          Conjured Mana Cake, 1, 0 after  9 days becomes: Conjured Mana Cake, -8, 0
+                          Conjured Mana Cake, 1, 1 after  0 days becomes: Conjured Mana Cake, 1, 1
+                          Conjured Mana Cake, 1, 1 after  1 days becomes: Conjured Mana Cake, 0, 0
+                          Conjured Mana Cake, 1, 1 after  2 days becomes: Conjured Mana Cake, -1, 0
+                          Conjured Mana Cake, 1, 1 after  3 days becomes: Conjured Mana Cake, -2, 0
+                          Conjured Mana Cake, 1, 1 after  4 days becomes: Conjured Mana Cake, -3, 0
+                          Conjured Mana Cake, 1, 1 after  5 days becomes: Conjured Mana Cake, -4, 0
+                          Conjured Mana Cake, 1, 1 after  6 days becomes: Conjured Mana Cake, -5, 0
+                          Conjured Mana Cake, 1, 1 after  7 days becomes: Conjured Mana Cake, -6, 0
+                          Conjured Mana Cake, 1, 1 after  8 days becomes: Conjured Mana Cake, -7, 0
+                          Conjured Mana Cake, 1, 1 after  9 days becomes: Conjured Mana Cake, -8, 0
+                          Conjured Mana Cake, 1, 2 after  0 days becomes: Conjured Mana Cake, 1, 2
+                          Conjured Mana Cake, 1, 2 after  1 days becomes: Conjured Mana Cake, 0, 0
+                          Conjured Mana Cake, 1, 2 after  2 days becomes: Conjured Mana Cake, -1, 0
+                          Conjured Mana Cake, 1, 2 after  3 days becomes: Conjured Mana Cake, -2, 0
+                          Conjured Mana Cake, 1, 2 after  4 days becomes: Conjured Mana Cake, -3, 0
+                          Conjured Mana Cake, 1, 2 after  5 days becomes: Conjured Mana Cake, -4, 0
+                          Conjured Mana Cake, 1, 2 after  6 days becomes: Conjured Mana Cake, -5, 0
+                          Conjured Mana Cake, 1, 2 after  7 days becomes: Conjured Mana Cake, -6, 0
+                          Conjured Mana Cake, 1, 2 after  8 days becomes: Conjured Mana Cake, -7, 0
+                          Conjured Mana Cake, 1, 2 after  9 days becomes: Conjured Mana Cake, -8, 0
+                         Conjured Mana Cake, 1, 50 after  0 days becomes: Conjured Mana Cake, 1, 50
+                         Conjured Mana Cake, 1, 50 after  1 days becomes: Conjured Mana Cake, 0, 48
+                         Conjured Mana Cake, 1, 50 after  2 days becomes: Conjured Mana Cake, -1, 44
+                         Conjured Mana Cake, 1, 50 after  3 days becomes: Conjured Mana Cake, -2, 40
+                         Conjured Mana Cake, 1, 50 after  4 days becomes: Conjured Mana Cake, -3, 36
+                         Conjured Mana Cake, 1, 50 after  5 days becomes: Conjured Mana Cake, -4, 32
+                         Conjured Mana Cake, 1, 50 after  6 days becomes: Conjured Mana Cake, -5, 28
+                         Conjured Mana Cake, 1, 50 after  7 days becomes: Conjured Mana Cake, -6, 24
+                         Conjured Mana Cake, 1, 50 after  8 days becomes: Conjured Mana Cake, -7, 20
+                         Conjured Mana Cake, 1, 50 after  9 days becomes: Conjured Mana Cake, -8, 16
+                         Conjured Mana Cake, 11, 0 after  0 days becomes: Conjured Mana Cake, 11, 0
+                         Conjured Mana Cake, 11, 0 after  1 days becomes: Conjured Mana Cake, 10, 0
+                         Conjured Mana Cake, 11, 0 after  2 days becomes: Conjured Mana Cake, 9, 0
+                         Conjured Mana Cake, 11, 0 after  3 days becomes: Conjured Mana Cake, 8, 0
+                         Conjured Mana Cake, 11, 0 after  4 days becomes: Conjured Mana Cake, 7, 0
+                         Conjured Mana Cake, 11, 0 after  5 days becomes: Conjured Mana Cake, 6, 0
+                         Conjured Mana Cake, 11, 0 after  6 days becomes: Conjured Mana Cake, 5, 0
+                         Conjured Mana Cake, 11, 0 after  7 days becomes: Conjured Mana Cake, 4, 0
+                         Conjured Mana Cake, 11, 0 after  8 days becomes: Conjured Mana Cake, 3, 0
+                         Conjured Mana Cake, 11, 0 after  9 days becomes: Conjured Mana Cake, 2, 0
+                         Conjured Mana Cake, 11, 1 after  0 days becomes: Conjured Mana Cake, 11, 1
+                         Conjured Mana Cake, 11, 1 after  1 days becomes: Conjured Mana Cake, 10, 0
+                         Conjured Mana Cake, 11, 1 after  2 days becomes: Conjured Mana Cake, 9, 0
+                         Conjured Mana Cake, 11, 1 after  3 days becomes: Conjured Mana Cake, 8, 0
+                         Conjured Mana Cake, 11, 1 after  4 days becomes: Conjured Mana Cake, 7, 0
+                         Conjured Mana Cake, 11, 1 after  5 days becomes: Conjured Mana Cake, 6, 0
+                         Conjured Mana Cake, 11, 1 after  6 days becomes: Conjured Mana Cake, 5, 0
+                         Conjured Mana Cake, 11, 1 after  7 days becomes: Conjured Mana Cake, 4, 0
+                         Conjured Mana Cake, 11, 1 after  8 days becomes: Conjured Mana Cake, 3, 0
+                         Conjured Mana Cake, 11, 1 after  9 days becomes: Conjured Mana Cake, 2, 0
+                         Conjured Mana Cake, 11, 2 after  0 days becomes: Conjured Mana Cake, 11, 2
+                         Conjured Mana Cake, 11, 2 after  1 days becomes: Conjured Mana Cake, 10, 0
+                         Conjured Mana Cake, 11, 2 after  2 days becomes: Conjured Mana Cake, 9, 0
+                         Conjured Mana Cake, 11, 2 after  3 days becomes: Conjured Mana Cake, 8, 0
+                         Conjured Mana Cake, 11, 2 after  4 days becomes: Conjured Mana Cake, 7, 0
+                         Conjured Mana Cake, 11, 2 after  5 days becomes: Conjured Mana Cake, 6, 0
+                         Conjured Mana Cake, 11, 2 after  6 days becomes: Conjured Mana Cake, 5, 0
+                         Conjured Mana Cake, 11, 2 after  7 days becomes: Conjured Mana Cake, 4, 0
+                         Conjured Mana Cake, 11, 2 after  8 days becomes: Conjured Mana Cake, 3, 0
+                         Conjured Mana Cake, 11, 2 after  9 days becomes: Conjured Mana Cake, 2, 0
+                        Conjured Mana Cake, 11, 50 after  0 days becomes: Conjured Mana Cake, 11, 50
+                        Conjured Mana Cake, 11, 50 after  1 days becomes: Conjured Mana Cake, 10, 48
+                        Conjured Mana Cake, 11, 50 after  2 days becomes: Conjured Mana Cake, 9, 46
+                        Conjured Mana Cake, 11, 50 after  3 days becomes: Conjured Mana Cake, 8, 44
+                        Conjured Mana Cake, 11, 50 after  4 days becomes: Conjured Mana Cake, 7, 42
+                        Conjured Mana Cake, 11, 50 after  5 days becomes: Conjured Mana Cake, 6, 40
+                        Conjured Mana Cake, 11, 50 after  6 days becomes: Conjured Mana Cake, 5, 38
+                        Conjured Mana Cake, 11, 50 after  7 days becomes: Conjured Mana Cake, 4, 36
+                        Conjured Mana Cake, 11, 50 after  8 days becomes: Conjured Mana Cake, 3, 34
+                        Conjured Mana Cake, 11, 50 after  9 days becomes: Conjured Mana Cake, 2, 32
